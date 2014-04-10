@@ -1,0 +1,424 @@
+Rank                                           Won  Lost  Tied    PF    PA   Rating
+   1 Gonzaga, DC                                 1     0     0    31     0   82.639
+   2 Centreville                                15     0     0   680   169   78.899
+   3 Good Counsel, MD                            1     0     0    35    10   78.135
+   4 St. John's, DC                              1     0     0    17     7   75.185
+   5 McDonough School, MD                        2     0     0    70    28   74.804
+   6 Oscar Smith                                14     1     0   642   103   73.906
+   7 Lake Braddock                              12     1     0   595   164   73.705
+   8 L.C. Bird                                  15     0     0   669   100   73.415
+   9 DeMatha, MD                                 2     0     0    73    34   73.137
+  10 Charlotte Christian, NC                     1     0     0    32    31   72.427
+  11 Westfield                                  11     3     0   393   224   72.371
+  12 Dinwiddie                                  15     0     0   719   127   71.397
+  13 Briar Woods                                13     2     0   597   191   71.169
+  14 North Stafford                             11     3     0   451   193   69.211
+  15 Bullis, MD                                  2     0     0   104    25   69.117
+  16 Woodberry Forest                            8     1     0   340   110   69.045
+  17 Massaponax                                 12     1     0   514   264   68.995
+  18 Colonial Forge                             10     4     0   357   237   68.470
+  19 Ocean Lakes                                12     1     0   615   151   67.803
+  20 Robinson                                    8     4     0   387   238   67.764
+  21 Liberty Christian                           9     2     0   401   239   67.498
+  22 South County                                9     3     0   550   299   67.053
+  23 Stone Bridge                                9     3     0   428   207   66.964
+  24 Hylton                                     10     2     0   421   172   66.761
+  25 Collegiate                                  9     2     0   336   157   66.403
+  26 Bishop O'Connell                            5     5     0   263   228   66.157
+  27 Martinsburg, WV                             1     1     0    61    48   65.235
+  28 Lake Taylor                                10     3     0   447   125   65.230
+  29 Sullivan South, TN                          1     0     0    40     7   65.018
+  30 Patriot                                     8     3     0   377   224   64.957
+  31 Atlee                                      11     2     0   460   213   64.904
+  32 Langley                                     9     3     0   481   265   64.879
+  33 Northside                                  14     1     0   512   178   64.862
+  34 Varina                                      9     3     0   420   221   64.698
+  35 Mountain View                               8     4     0   298   266   64.686
+  36 Broad Run                                   9     4     0   452   238   64.593
+  37 Forest Park                                 9     4     0   245   159   64.536
+  38 T.C. Williams                               7     4     0   242   244   64.492
+  39 Sherando                                   13     2     0   498   224   64.447
+  40 Hermitage                                   9     3     0   428   194   64.383
+  41 Middlesboro, KY                             1     0     0    27     6   63.818
+  42 Tuscarora                                   9     3     0   377   255   63.799
+  43 Phoebus                                    10     2     0   448   132   63.782
+  44 Benedictine                                 6     4     0   241   191   63.760
+  45 Chantilly                                   5     6     0   346   339   63.629
+  46 Highland Springs                            8     3     0   426   255   63.354
+  47 Stonewall Jackson(M)                        8     5     0   421   390   63.068
+  48 Western Branch                             10     2     0   479   241   62.973
+  49 Yorktown                                    9     3     0   323   207   62.707
+  50 Salem                                      11     3     0   500   224   62.656
+  51 Woodgrove                                   9     4     0   429   183   61.843
+  52 Fairfax                                     7     4     0   291   216   61.564
+  53 Battlefield                                 6     5     0   233   203   61.554
+  54 Washington-Lee                              8     3     0   252   207   61.528
+  55 Salem(VB)                                  11     3     0   371   163   61.448
+  56 Courtland                                  10     3     0   471   222   61.398
+  57 Heritage(NN)                               12     2     0   403   249   61.021
+  58 Woodbridge                                  6     5     0   237   254   61.004
+  59 Morehead, NC                                1     0     0    32     0   60.903
+  60 Bluefield, WV                               3     0     0   159    59   60.615
+  61 Douglas Freeman                            10     2     0   340   225   60.555
+  62 Providence Day, NC                          0     1     0    28    43   60.529
+  63 Lafayette                                  12     1     0   608   140   60.507
+  64 St. Christopher's                           6     4     0   259   188   60.469
+  65 William Byrd                                9     3     0   337   256   60.341
+  66 Oakton                                      5     5     0   228   263   60.106
+  67 Heritage(Lyn)                              13     1     0   495   252   60.077
+  68 Patrick Henry(R)                            8     3     0   302   189   60.050
+  69 Lord Botetourt                             10     2     0   426   110   59.849
+  70 Episcopal                                   5     4     0   286   280   59.745
+  71 Magna Vista                                11     2     0   512   208   59.741
+  72 Georgetown Prep, MD                         1     0     0    59    24   59.700
+  73 James Monroe                               10     5     0   393   260   59.687
+  74 St. Mary's Ryken, MD                        2     1     0    56    50   59.556
+  75 Riverbend                                   5     5     0   232   234   59.479
+  76 Altavista                                  14     1     0   601   166   59.473
+  77 Giles                                      15     0     0   567   259   59.386
+  78 Grassfield                                  9     3     0   331   292   59.145
+  79 Hayfield                                    5     6     0   259   296   59.060
+  80 Bishop McNamara, MD                         0     1     0    36    61   58.850
+  81 Falls Church                                8     4     0   376   278   58.824
+  82 Loudoun Valley                             11     3     0   377   194   58.601
+  83 Thomas Dale                                 6     5     0   270   246   58.521
+  84 Brunswick                                  12     3     0   514   161   58.516
+  85 Manchester                                  8     3     0   395   192   58.398
+  86 West Potomac                                4     6     0   256   351   58.325
+  87 Liberty(Beal)                               7     5     0   410   328   58.105
+  88 Potomac                                     4     7     0   145   242   58.025
+  89 Monticello                                 10     2     0   490   245   57.992
+  90 Christiansburg                              7     4     0   359   232   57.926
+  91 King's Fork                                 9     4     0   381   277   57.879
+  92 Meadowbrook                                 6     5     0   278   231   57.878
+  93 South Lakes                                 5     6     0   193   278   57.821
+  94 Hidden Valley                               7     6     0   294   205   57.649
+  95 Freedom(PW)                                 4     7     0   143   269   57.611
+  96 Denbigh                                     8     4     0   432   276   57.564
+  97 Flint Hill                                  6     4     0   281   236   57.544
+  98 Greenbrier West, WV                         1     0     0    41    14   57.468
+  99 McLean                                      5     5     0   241   226   57.396
+ 100 Cosby                                       7     4     0   312   184   57.180
+ 101 Western Albemarle                          10     2     0   478   293   57.144
+ 102 Osbourn Park                                3     7     0   149   244   57.111
+ 103 Green Run                                   9     4     0   403   308   57.093
+ 104 Spotswood                                   9     2     0   400   167   56.814
+ 105 Eastern View                               10     2     0   416   266   56.692
+ 106 Bayside                                     6     5     0   193   183   56.689
+ 107 W.T. Woodson                                3     7     0   150   214   56.627
+ 108 Bishop Sullivan                            12     0     0   593   262   56.548
+ 109 Essex                                      13     2     0   593   187   56.529
+ 110 Norcom                                      8     3     0   265   154   56.351
+ 111 Clarke County                              12     1     0   463   154   56.261
+ 112 Tallwood                                    6     5     0   304   260   56.254
+ 113 Northeastern, NC                            1     0     0    46     0   56.232
+ 114 George Washington                          10     2     0   481   247   56.199
+ 115 Tennessee, TN                               1     0     0    55    26   56.122
+ 116 Cox                                         6     5     0   265   226   56.093
+ 117 Kettle Run                                  7     5     0   315   173   56.079
+ 118 Lee-Davis                                   5     5     0   229   243   55.936
+ 119 Hanover                                     6     6     0   263   233   55.780
+ 120 Brooke Point                                2     8     0   163   381   55.723
+ 121 King George                                 8     3     0   254   189   55.549
+ 122 Bethel                                      5     5     0   271   210   55.100
+ 123 Albemarle                                   6     5     0   228   198   55.092
+ 124 Hampton                                     7     5     0   364   262   55.064
+ 125 Mills Godwin                                7     4     0   228   212   55.017
+ 126 Dominion                                    7     5     0   239   241   54.979
+ 127 Woodside                                    6     5     0   353   279   54.961
+ 128 Maury                                       8     4     0   342   247   54.903
+ 129 Rustburg                                    6     5     0   286   264   54.889
+ 130 St. Albans, DC                              1     1     0    63    51   54.815
+ 131 Handley                                     7     4     0   402   334   54.734
+ 132 Osbourn                                     2     8     0    81   201   54.520
+ 133 Churchland                                  8     3     0   268   218   54.501
+ 134 Riverheads                                 12     2     0   579   249   54.400
+ 135 Mount Airy, NC                              1     0     0    34    15   54.333
+ 136 Johnson County, TN                          1     0     0    26    10   54.271
+ 137 Dan River                                   9     3     0   368   195   54.231
+ 138 Goochland                                  10     3     0   558   299   54.181
+ 139 Liberty(Bed)                                7     4     0   401   284   54.149
+ 140 Kent, MD                                    1     0     0    41     0   53.964
+ 141 Wilson Memorial                            10     2     0   380   217   53.945
+ 142 Landon, MD                                  1     2     0    72    96   53.889
+ 143 Central(W)                                 10     3     0   510   248   53.832
+ 144 Mount Vernon                                3     8     0   254   347   53.778
+ 145 Franklin County                             4     6     0   251   254   53.679
+ 146 Loudoun County                              5     6     0   196   238   53.540
+ 147 James River(C)                              6     4     0   243   204   53.482
+ 148 Potomac School                              8     3     0   342   228   53.408
+ 149 Matoaca                                     5     5     0   278   292   53.405
+ 150 Washington, WV                              1     2     0   112    66   53.309
+ 151 West Springfield                            3     7     0   130   346   53.272
+ 152 Kecoughtan                                  5     5     0   210   206   53.224
+ 153 Gretna                                      7     4     0   359   226   53.183
+ 154 Musselman, WV                               0     1     0    13    40   53.172
+ 155 Herndon                                     1     9     0   229   370   52.977
+ 156 Paul VI                                     3     7     0   187   249   52.930
+ 157 Buckingham County                          10     4     0   511   290   52.886
+ 158 Haysi                                      13     1     0   586   185   52.847
+ 159 R.E. Lee(Sp)                                2     9     0   263   515   52.842
+ 160 Appomattox                                  7     5     0   387   207   52.790
+ 161 R.E. Lee(St)                                8     4     0   328   223   52.713
+ 162 Thomas Jefferson(A)                         4     7     0   187   324   52.664
+ 163 Stafford                                    1     9     0   109   327   52.469
+ 164 Cave Spring                                 5     6     0   195   344   52.443
+ 165 Edison                                      3     8     0   312   387   52.344
+ 166 Central Virginia Homeschool                 1     0     0    26    18   52.308
+ 167 Bishop Ireton                               4     6     0   159   281   52.266
+ 168 Fort Chiswell                              12     2     0   555   234   52.205
+ 169 Powhatan                                    6     5     0   342   232   52.113
+ 170 Kellam                                      4     7     0   184   285   52.070
+ 171 Tabb                                        7     4     0   304   275   51.974
+ 172 Hopewell                                    6     6     0   301   334   51.958
+ 173 Richlands                                   9     4     0   377   344   51.937
+ 174 Norfolk Academy                             7     3     0   314   208   51.673
+ 175 Greenbrier East, WV                         1     0     0    55    49   51.629
+ 176 Monacan                                     5     6     0   239   315   51.595
+ 177 Great Bridge                                5     6     0   307   279   51.583
+ 178 Glen Allen                                  4     7     0   166   352   51.566
+ 179 Nansemond-Suffolk                           8     3     0   487   183   51.367
+ 180 Pulaski County                              4     7     0   172   216   51.350
+ 181 Union                                       9     3     0   357   252   51.125
+ 182 Brookville                                  5     6     0   230   314   51.078
+ 183 Amherst County                              3     8     0   292   380   51.045
+ 184 Blacksburg                                  4     6     0   207   218   50.966
+ 185 Bruton                                      8     4     0   302   244   50.751
+ 186 Potomac Falls                               4     7     0   144   348   50.666
+ 187 Poquoson                                    8     4     0   355   266   50.637
+ 188 Central(L)                                 10     3     0   491   298   50.601
+ 189 Fauquier                                    5     6     0   233   225   50.571
+ 190 Archbishop Carroll, DC                      0     1     0     6    42   50.544
+ 191 J.M. Bennett, MD                            1     0     0    38     7   50.485
+ 192 Hedgesville, WV                             1     0     0    37    21   50.362
+ 193 Gate City                                   8     5     0   364   381   50.326
+ 194 Virginia Episcopal                          9     1     0   320   183   50.235
+ 195 St. Frances Academy, MD                     1     0     0    42     0   50.212
+ 196 E.C. Glass                                  4     7     0   297   293   50.173
+ 197 Tunstall                                    5     6     0   305   255   50.168
+ 198 Granby                                      4     6     0   144   249   50.145
+ 199 Franklin                                   11     2     0   531   236   50.090
+ 200 Fork Union                                  1     8     0   200   405   50.073
+ 201 First Colonial                              3     7     0   145   261   50.009
+ 202 Gar-Field                                   0    10     0    62   267   49.965
+ 203 Annandale                                   1     9     0   154   360   49.898
+ 204 First Flight, NC                            0     1     0    41    62   49.885
+ 205 Nansemond River                             4     7     0   234   331   49.878
+ 206 Caroline                                    4     7     0   257   341   49.848
+ 207 Henrico                                     3     7     0   140   246   49.737
+ 208 Sullivan Central, TN                        1     0     0    41    20   49.674
+ 209 Landstown                                   3     7     0   114   308   49.482
+ 210 Prince George                               4     6     0   265   223   49.449
+ 211 Jefferson County, WV                        1     1     0    30    60   49.344
+ 212 Charlottesville                             4     7     0   286   313   49.328
+ 213 James Madison                               1     9     0   162   367   49.090
+ 214 Galax                                       7     5     0   490   297   49.077
+ 215 Norview                                     5     6     0   208   204   49.022
+ 216 Alleghany                                   4     6     0   208   254   49.014
+ 217 Graham                                      6     5     0   360   304   48.917
+ 218 Petersburg                                  3     8     0   264   351   48.831
+ 219 Warren County                               8     4     0   306   265   48.803
+ 220 Sullivan North, TN                          1     1     0    44    39   48.781
+ 221 Heritage(Le)                                3     7     0   158   263   48.639
+ 222 Jefferson Forest                            4     6     0   298   311   48.634
+ 223 Happy Valley, TN                            1     0     0    28    26   48.625
+ 224 Chatham                                     6     4     0   346   244   48.571
+ 225 Stuarts Draft                               7     4     0   273   216   48.498
+ 226 Culpeper County                             4     6     0   203   247   48.487
+ 227 J.R. Tucker                                 4     6     0   260   295   48.469
+ 228 Pope John Paul the Great                    7     3     0   359   169   48.419
+ 229 East Rockingham                             7     4     0   288   231   48.387
+ 230 Honaker                                    10     2     0   421   169   48.245
+ 231 Kempsville                                  2     9     0   128   312   48.220
+ 232 Armstrong                                   3     8     0   228   332   47.948
+ 233 Wakefield                                   3     7     0   178   357   47.935
+ 234 Blessed Sacrament-Huguenot                 11     1     0   454   165   47.911
+ 235 Covington                                   9     4     0   367   254   47.779
+ 236 Louisa County                               3     7     0   166   261   47.731
+ 237 York                                        4     7     0   156   187   47.716
+ 238 Jamestown                                   4     7     0   188   319   47.703
+ 239 Fort Defiance                               5     5     0   238   267   47.463
+ 240 Deep Run                                    3     7     0   223   349   47.410
+ 241 Virginia                                    6     6     0   374   357   47.374
+ 242 Nottoway                                    6     6     0   248   314   47.226
+ 243 North Cross                                 8     3     0   350   250   47.213
+ 244 Weldon, NC                                  1     0     0    30     0   47.125
+ 245 Atlantic Shores Christian                   7     3     0   381   130   47.084
+ 246 King William                                8     3     0   461   201   47.061
+ 247 J.E.B. Stuart                               2     8     0   130   312   46.983
+ 248 Orange                                      2     8     0   195   406   46.925
+ 249 St. Stephen's & St. Agnes                   0     9     0   109   338   46.802
+ 250 George Mason                                6     5     0   253   257   46.728
+ 251 Gloucester                                  2     8     0   193   326   46.510
+ 252 William Fleming                             3     7     0   179   265   46.503
+ 253 St. Anne's-Belfield                         5     5     0   211   240   46.494
+ 254 James River(B)                              5     6     0   279   367   46.494
+ 255 Thomasville, NC                             0     1     0    17    21   46.377
+ 256 Parry McCluer                               8     4     0   365   260   46.360
+ 257 Washington & Lee                            7     5     0   304   169   46.342
+ 258 Clintwood                                   8     3     0   423   164   46.323
+ 259 Smithfield                                  4     6     0   214   269   46.223
+ 260 John Battle                                 6     5     0   278   251   45.953
+ 261 Grafton                                     3     7     0   127   199   45.935
+ 262 Glenvar                                     5     6     0   289   328   45.854
+ 263 Radford                                     6     6     0   244   281   45.785
+ 264 Patrick Henry(A)                            2     8     0   176   330   45.686
+ 265 Fredericksburg Christian                    6     4     0   263   192   45.600
+ 266 Turner Ashby                                3     7     0   297   352   45.509
+ 267 Chancellor                                  1     9     0   123   269   45.384
+ 268 Amelia County                               5     6     0   310   315   45.375
+ 269 Trinity Episcopal                           3     7     0   284   354   45.357
+ 270 Harrisonburg                                2     8     0   247   359   45.353
+ 271 Park View(St)                               2     8     0    57   206   45.322
+ 272 Clover Hill                                 3     7     0   170   243   45.309
+ 273 Carroll County                              2     8     0   262   403   44.957
+ 274 Avalon, MD                                  0     1     0    12    24   44.918
+ 275 Booker T. Washington                        2     7     0   152   293   44.833
+ 276 Person County, NC                           1     1     0    33    47   44.789
+ 277 Thomas Jefferson(R)                         3     8     0   203   297   44.561
+ 278 Deep Creek                                  2     8     0   134   356   44.557
+ 279 Randolph-Henry                              5     5     0   277   401   44.553
+ 280 Skyline                                     4     7     0   146   355   44.547
+ 281 Lee                                         5     6     0   282   261   44.503
+ 282 Maret, DC                                   0     2     0    28    78   44.441
+ 283 Marion                                      6     5     0   356   236   44.372
+ 284 Grayson                                     5     6     0   323   306   44.250
+ 285 Warhill                                     2     8     0   198   339   44.247
+ 286 Martinsville                                3     7     0   218   311   44.241
+ 287 St. James, MD                               0     2     0    27    84   44.131
+ 288 Spotsylvania                                3     8     0   138   378   44.069
+ 289 Rappahannock                                8     4     0   336   207   43.978
+ 290 John Champe                                 2     8     0    35   250   43.958
+ 291 Luray                                       5     6     0   254   303   43.957
+ 292 Rockbridge County                           2     8     0   135   323   43.940
+ 293 Hickory                                     2     8     0   113   324   43.844
+ 294 Park View(SH)                               7     4     0   384   288   43.755
+ 295 Chilhowie                                   7     4     0   347   268   43.681
+ 296 Staunton River                              2     8     0   161   358   43.657
+ 297 Freedom(LC)                                 1     9     0   117   384   43.654
+ 298 William Monroe                              3     8     0   227   390   43.570
+ 299 Shelby Valley, KY                           2     0     0    92    40   43.554
+ 300 Abingdon                                    4     6     0   233   294   43.487
+ 301 Broadway                                    3     7     0   195   226   43.444
+ 302 Princess Anne                               0    10     0   103   311   43.369
+ 303 Strasburg                                   3     7     0   204   197   43.352
+ 304 New Kent                                    2     8     0   119   339   43.328
+ 305 Madison County                              3     8     0   178   335   43.278
+ 306 Lakeland                                    1     9     0   116   288   43.228
+ 307 Coolidge, DC                                0     1     0     0    49   43.082
+ 308 Eastern Shore HomeSchool, DE                1     0     0    45     7   43.021
+ 309 Lebanon                                     5     5     0   245   261   42.967
+ 310 Sidwell Friends, DC                         2     2     1   151   132   42.932
+ 311 Sussex Central                              7     5     0   414   282   42.866
+ 312 J.I. Burton                                 8     5     0   341   273   42.724
+ 313 George Wythe(W)                             6     5     0   301   294   42.708
+ 314 Fluvanna                                    1     9     0   147   346   42.678
+ 315 Auburn                                      7     5     0   331   213   42.546
+ 316 Millbrook                                   2     8     0    99   261   42.529
+ 317 Surry                                       7     4     0   267   213   42.472
+ 318 Waynesboro                                  1     9     0   197   413   42.245
+ 319 Fishburne Military                          9     1     0   327   214   42.223
+ 320 West Point                                  8     3     0   450   205   42.201
+ 321 East Hardy, WV                              2     0     0    85    46   42.128
+ 322 Broadwater Academy                          8     2     0   375   152   42.079
+ 323 Bassett                                     3     7     0   215   343   42.055
+ 324 Indian River                                1     9     0   123   370   41.879
+ 325 Blue Ridge                                  3     6     0   209   297   41.574
+ 326 Bartlett Yancey, NC                         0     2     0    42    91   41.573
+ 327 Summers County, WV                          0     1     0    16    23   41.128
+ 328 Holston                                     7     4     0   359   295   41.094
+ 329 Menchville                                  1     9     0    32   440   40.976
+ 330 Colonial Beach                              5     6     0   287   261   40.952
+ 331 Tazewell                                    2     8     0   275   331   40.937
+ 332 Manassas Park                               2     8     0   116   215   40.775
+ 333 Isle of Wight                               4     5     0   204   217   40.645
+ 334 James Wood                                  1     9     0   118   296   40.485
+ 335 Midlothian                                  2     8     0   113   341   40.376
+ 336 Bluestone                                   3     7     0   202   310   39.684
+ 337 Warwick                                     0    10     0    88   362   39.601
+ 338 McMichael, NC                               0     1     0     0    55   39.536
+ 339 Hampton Roads Academy                       5     5     0   335   345   39.385
+ 340 Bath County                                 5     6     0   161   274   39.313
+ 341 Berkeley Springs, WV                        0     1     0     0    34   39.194
+ 342 Prince Edward                               1     9     0   195   323   38.938
+ 343 Hargrave Military                           3     8     0   214   400   38.892
+ 344 John Marshall                               0    10     0   148   376   38.864
+ 345 Norfolk Christian                           3     7     0   172   329   38.828
+ 346 Covenant                                    3     7     0   177   319   38.814
+ 347 George Marshall                             0    10     0   114   409   38.798
+ 348 Buffalo Gap                                 2     8     0   133   326   38.505
+ 349 Stonewall Jackson(Q)                        1     9     0   188   401   38.271
+ 350 Halifax County                              1     9     0   161   366   38.258
+ 351 Northwood                                   6     5     0   266   275   38.214
+ 352 Brentsville District                        0    10     0   122   414   37.699
+ 353 Floyd County                                2     8     0   187   319   37.637
+ 354 Fuqua                                       6     6     0   283   282   37.565
+ 355 Alleghany, NC                               0     1     0    28    41   37.532
+ 356 Eastside                                    5     6     0   298   257   37.355
+ 357 Wilson                                      0    10     0    34   371   37.225
+ 358 William Campbell                            1    10     0   106   466   37.191
+ 359 Rural Retreat                               4     7     0   195   380   37.091
+ 360 Page County                                 2     8     0   129   327   37.048
+ 361 Christchurch                                1     8     0   135   339   36.937
+ 362 Middlesex                                   7     4     0   226   242   36.589
+ 363 Portsmouth Christian                        3     7     0   249   388   36.321
+ 364 Randolph-Macon                              3     6     0   166   189   36.280
+ 365 Nandua                                      6     5     0   285   268   36.148
+ 366 Tug Valley, WV                              0     1     0     6    50   36.110
+ 367 Colonial Heights                            0    10     0   107   521   36.041
+ 368 Lancaster                                   4     7     0   380   333   36.020
+ 369 Arcadia                                     6     5     0   265   301   35.606
+ 370 Grundy                                      3     7     0   192   439   35.303
+ 371 Central(Wise)                               1     9     0   174   308   35.245
+ 372 Huguenot                                    1     9     0    53   431   35.130
+ 373 Kenston Forest                              4     6     0   179   281   35.071
+ 374 Hancock, MD                                 2     0     0    98    18   35.054
+ 375 Pendleton County, WV                        0     2     0    30    51   34.943
+ 376 Twin Springs                                4     6     0   211   290   34.315
+ 377 Baltimore Lutheran, MD                      0     1     0     7    37   34.307
+ 378 Southampton                                 2     8     0    72   349   34.285
+ 379 Harlan, KY                                  1     1     0    65    90   34.102
+ 380 Narrows                                     3     7     0   107   310   33.965
+ 381 Roanoke Catholic                            4     6     0   237   308   33.605
+ 382 Patrick Henry(GS)                           3     7     0   201   356   33.498
+ 383 Cumberland                                  2     9     0   177   456   33.091
+ 384 Chincoteague                                5     4     0   234   207   33.082
+ 385 Eastern Montgomery                          1     9     0   162   349   33.021
+ 386 Hurley                                      4     6     0   294   308   32.447
+ 387 Volunteer, TN                               0     1     0    12    37   32.237
+ 388 Pocahontas County, WV                       0     1     0     0     7   31.857
+ 389 George Wythe(R)                             0    10     0    52   410   31.773
+ 390 St. John's Prep, MD                         1     0     0    42    22   31.707
+ 391 Northumberland                              3     8     0   203   411   31.566
+ 392 Brunswick Academy                           2     8     0   170   235   31.399
+ 393 Greensville                                 1     9     0    79   426   30.915
+ 394 Nelson County                               0    10     0    83   457   30.852
+ 395 Greenbrier Christian                        1     9     0   138   342   30.762
+ 396 Windsor                                     1     9     0   142   335   30.332
+ 397 East Ridge, KY                              1     2     0    72    80   29.941
+ 398 North Stokes, NC                            0     1     0    13    46   29.915
+ 399 Patrick County                              0    10     0   114   623   29.508
+ 400 Mathews                                     2     8     0   193   368   29.501
+ 401 Hampton Christian                           1     8     0   146   356   29.357
+ 402 Craig County                                2     8     0   125   382   28.832
+ 403 Quantico                                    3     6     0   168   313   28.451
+ 404 Nativity of the Blessed Virgin Mary, PA     0     1     0     0    55   28.376
+ 405 Twin Valley                                 4     6     0   286   383   28.065
+ 406 Bland County                                0    10     0   149   378   27.969
+ 407 Victory Christian                           1     4     1    66   171   27.517
+ 408 Cape Hatteras SSCS, NC                      0     1     0     7    40   27.464
+ 409 Snow Hill, MD                               0     2     0    36    70   27.443
+ 410 Thomas Walker                               1     9     0   197   468   27.165
+ 411 Rye Cove                                    2     8     0   204   448   27.019
+ 412 Castlewood                                  1     9     0    78   351   26.507
+ 413 Charles City                                1     9     0   122   509   25.353
+ 414 Montcalm, WV                                0     5     0   118   184   25.036
+ 415 Hampton Roads Generals                      1     4     0    82   181   25.002
+ 416 Washington, MD                              0     2     0    21    68   24.476
+ 417 Colonel Richardson, MD                      0     2     0    21    75   24.329
+ 418 Massanutten Military                        0     8     0    78   325   23.410
+ 419 Phelps, KY                                  0     2     0    48    88   22.086
+ 420 King & Queen                                0    10     0    62   452   20.028
+ 421 Rappahannock County                         0     7     0    41   330   19.001
+ 422 Northampton                                 0    10     0    40   463   18.440
+ 423 Hannan, WV                                  0     1     0     0    40    9.952
