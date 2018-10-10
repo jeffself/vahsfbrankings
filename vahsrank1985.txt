@@ -1,0 +1,74 @@
+Rank                                           Won  Lost  Tied    PF    PA   Rating
+   1 POWELL VALLEY                               3     0     0    69    44  115.774
+   2 COURTLAND                                   4     0     0    90    20  115.342
+   3 HAMPTON                                     6     0     0   121    48  114.112
+   4 LUNENBURG CENTRAL                           3     1     0   143    53  110.249
+   5 BLACKSBURG                                  3     1     0    66    42  108.842
+   6 KEMPSVILLE                                 10     1     1   300   172  108.296
+   7 DEEP CREEK                                  9     2     0   207   145  107.858
+   8 HAYSI                                       1     1     0    26    36  107.206
+   9 WOODROW WILSON                              7     1     1   171    95  106.885
+  10 INDIAN RIVER                                8     2     0   183    76  106.675
+  11 COVINGTON                                   2     1     0    51    14  105.374
+  12 CRADOCK                                     7     2     0   144   145  104.804
+  13 GREEN RUN                                   6     4     0   205    98  104.454
+  14 MENCHVILLE                                  1     0     0    28     7  104.368
+  15 LAKE TAYLOR                                 8     3     0   226   139  103.388
+  16 BETHEL                                      0     2     0    28    42  103.358
+  17 FIRST COLONIAL                              6     3     1   272   169  102.875
+  18 LOUDOUN COUNTY                              1     1     0    16    28  102.851
+  19 T.C. WILLIAMS                               3     1     0    38    33  102.726
+  20 MARTINSVILLE                                2     1     0    63    55  102.512
+  21 TURNER ASHBY                                0     1     0     3    21  102.088
+  22 KELLAM                                      7     3     0   149   112  101.881
+  23 NORCOM                                      5     5     0   106   111  100.966
+  24 PENNINGTON                                  0     1     0     9    12  100.778
+  25 MONACAN                                     2     1     0    43    39  100.633
+  26 WESTERN BRANCH                              3     4     3   112   119  100.178
+  27 GATE CITY                                   0     1     0    14    28  100.050
+  28 LAFAYETTE                                   1     0     0    14     7   99.980
+  29 NORVIEW                                     5     3     2   121    91   99.578
+  30 COX                                         3     4     2    92   141   99.256
+  31 RADFORD                                     1     1     0    17    16   98.832
+  32 SUSSEX CENTRAL                              2     1     0    55    35   98.315
+  33 SURRY COUNTY                                2     1     0    47    66   98.183
+  34 MANOR                                       2     6     2   131   175   97.852
+  35 PRINCESS ANNE                               3     7     0   110   206   97.731
+  36 FLUVANNA                                    1     1     0    16    35   97.048
+  37 BOOKER T. WASHINGTON                        3     6     1   149   157   96.968
+  38 GREAT BRIDGE                                1     7     2   133   177   96.891
+  39 OSCAR SMITH                                 2     8     0    68   115   96.880
+  40 WILLIAM CAMPBELL                            1     1     0    42    43   96.643
+  41 CHURCHLAND                                  1     7     2    81   179   96.227
+  42 HERNDON                                     1     1     0    35    37   95.895
+  43 MAURY                                       4     5     1   101   176   95.706
+  44 BAYSIDE                                     1     8     1    88   169   95.238
+  45 BUCKINGHAM                                  0     1     0    13    21   94.964
+  46 WEST POTOMAC                                0     1     0     6    12   94.945
+  47 DINWIDDIE                                   0     1     0     6    10   94.859
+  48 MARSHALL-WALKER                             1     1     0    27    23   94.478
+  49 HARRISONBURG                                0     1     0     0     9   93.495
+  50 PATRICK HENRY(R)                            2     1     0    41    21   93.361
+  51 LANCASTER                                   0     1     0    19    21   92.383
+  52 PAGE COUNTY                                 0     1     0     7    48   92.218
+  53 GRANBY                                      1     8     1    66   216   91.940
+  54 GALAX                                       1     1     0    21    40   90.750
+  55 ALLEGHANY                                   0     1     0    13    15   90.691
+  56 STUARTS DRAFT                               0     1     0     7    10   90.497
+  57 KING WILLIAM                                1     1     0    28    28   90.147
+  58 CHANTILLY                                   0     1     0    21    24   89.961
+  59 DENBIGH                                     0     2     0    15    40   88.870
+  60 PATRICK HENRY(A)                            0     1     0     7    26   88.789
+  61 ABINGDON                                    0     1     0     3    14   88.420
+  62 PHOEBUS                                     0     2     0     9    46   87.671
+  63 NOTTOWAY                                    1     1     0    13    20   86.704
+  64 G.W. CARVER                                 0     1     0     0    28   86.700
+  65 HIGHLAND SPRINGS                            0     1     0     6    13   86.291
+  66 OSBOURN PARK                                0     1     0     3     7   86.196
+  67 CHILHOWIE                                   0     1     0    20    21   85.171
+  68 FERGUSON                                    0     2     0     6    25   85.133
+  69 NANDUA                                      0     1     0    14    21   82.960
+  70 BRUTON                                      0     1     0     7    41   82.474
+  71 HERITAGE                                    1     1     0    35    34   80.547
+  72 L.C. BIRD                                   0     1     0     6    13   78.541
+  73 GAR-FIELD                                   0     1     0     0    27   62.975

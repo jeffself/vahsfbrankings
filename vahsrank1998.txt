@@ -1,0 +1,125 @@
+Rank                                           Won  Lost  Tied    PF    PA   Rating
+   1 C.D. HYLTON                                 4     0     0   140    41  129.229
+   2 SURRY                                       4     0     0   145    33  122.894
+   3 VARINA                                      3     1     0   103    54  122.121
+   4 SALEM                                       4     0     0   111    18  119.291
+   5 POWELL VALLEY                               4     0     0   132    47  118.621
+   6 CENTREVILLE                                 2     1     0    68    63  117.450
+   7 GAR-FIELD                                   1     1     0    21    49  117.381
+   8 NOTTOWAY                                    4     0     0   146    67  115.010
+   9 TALLWOOD                                   12     1     0   371   106  113.098
+  10 HAMPTON                                    12     1     0   435    71  112.980
+  11 CHARLES CITY                                0     1     0    13    32  112.862
+  12 ATLEE                                       1     1     0    23    30  112.188
+  13 SUSSEX CENTRAL                              1     1     0    28    45  111.934
+  14 MILLS GODWIN                                0     1     0    20    49  111.868
+  15 LAFAYETTE                                   3     1     0   128    74  111.814
+  16 OAKTON                                      1     1     0    41    21  111.565
+  17 NORTH STAFFORD                              0     1     0     3     6  110.629
+  18 HERITAGE(NN)                                9     1     0   269    56  110.458
+  19 CLINTWOOD                                   1     1     0    49    47  110.030
+  20 MADISON COUNTY                              3     1     0   126    78  109.905
+  21 HONAKER                                     0     1     0    19    38  109.685
+  22 DEEP CREEK                                 10     1     0   288   102  109.179
+  23 PHOEBUS                                     9     2     0   224    80  109.175
+  24 POTOMAC                                     0     1     0     6    49  108.849
+  25 LANGLEY                                     0     1     0    20    40  108.466
+  26 MATOACA                                     1     1     0    41    44  108.437
+  27 HANDLEY                                     2     1     0    61    47  108.234
+  28 RUSTBURG                                    3     1     0   120    80  107.250
+  29 PETERSBURG                                  0     1     0    20    23  106.189
+  30 WESTERN BRANCH                             10     2     0   234   153  106.120
+  31 MARTINSVILLE                                2     1     0    78    38  105.996
+  32 J.I. BURTON                                 3     1     0    99    84  105.307
+  33 FIRST COLONIAL                              8     3     0   201   140  104.164
+  34 ORANGE                                      1     1     0    59    37  103.628
+  35 WEST POINT                                  0     1     0     6    14  103.351
+  36 NANSEMOND RIVER                             8     2     0   180   114  103.304
+  37 STRASBURG                                   2     1     0    43    56  103.109
+  38 POWHATAN                                    1     1     0    43    41  103.015
+  39 BRUTON                                      0     1     0    18    21  102.396
+  40 HAYSI                                       0     1     0    20    35  101.868
+  41 KEMPSVILLE                                  6     5     0   216   183  101.710
+  42 HERITAGE(L)                                 1     1     0    34    26  101.694
+  43 LIBERTY(BEAL)                               2     1     0    59    35  101.421
+  44 WAYNESBORO                                  1     1     0    30    27  100.945
+  45 NEW KENT                                    2     1     0    74    50  100.867
+  46 BETHEL                                      6     4     0   169   133  100.565
+  47 SPOTSYLVANIA                                0     1     0    18    52  100.479
+  48 GRANBY                                      7     4     0   216   128  100.178
+  49 FORT DEFIANCE                               0     1     0    16    28  100.154
+  50 TUNSTALL                                    1     1     0    30    26  100.144
+  51 SALEM(VB)                                   5     5     0   128   144   99.846
+  52 GREEN RUN                                   5     5     0   178   213   99.796
+  53 WARWICK                                     6     4     0   153   148   99.671
+  54 OCEAN LAKES                                 5     5     0   131   185   99.542
+  55 HICKORY                                     5     5     0   202   186   99.482
+  56 BAYSIDE                                     4     6     0   200   213   99.034
+  57 HUGUENOT                                    2     1     0    71    67   98.846
+  58 CHURCHLAND                                  5     5     0   244   157   98.813
+  59 LORD BOTETOURT                              0     1     0    20    37   98.773
+  60 INDIAN RIVER                                5     5     0   154   178   98.732
+  61 PRINCESS ANNE                               4     6     0   117   174   98.640
+  62 LAKE TAYLOR                                 5     5     0   136   143   98.134
+  63 OSCAR SMITH                                 4     6     0    97   151   97.698
+  64 CENTRAL(L)                                  0     1     0    14    47   97.574
+  65 COX                                         3     7     0   177   277   97.248
+  66 NORVIEW                                     5     5     0   136   137   97.108
+  67 MAURY                                       5     5     0   122   147   97.023
+  68 COVINGTON                                   2     1     0    85    39   96.882
+  69 LURAY                                       1     1     0    72    57   96.368
+  70 AMHERST COUNTY                              3     1     0    70    79   96.187
+  71 BUFFALO GAP                                 0     1     0    20    28   96.066
+  72 LAKE BRADDOCK                               0     1     0     0    22   95.814
+  73 NORCOM                                      3     7     0   147   196   95.677
+  74 KELLAM                                      2     8     0    95   165   95.510
+  75 GREAT BRIDGE                                2     8     0   130   170   95.349
+  76 GILES                                       2     1     0    59    75   94.998
+  77 APPALACHIA                                  2     1     0    83    70   94.945
+  78 RIVERHEADS                                  0     1     0     7    15   94.695
+  79 TWIN SPRINGS                                0     1     0    12    34   94.421
+  80 KECOUGHTAN                                  3     6     0    76   161   94.244
+  81 RICHLANDS                                   1     1     0    37    54   94.025
+  82 DENBIGH                                     3     7     0    69   138   93.333
+  83 JAMES MONROE                                0     1     0     7    58   93.306
+  84 WOODROW WILSON                              2     8     0    84   257   92.680
+  85 CHARLOTTESVILLE                             0     1     0    14    28   92.638
+  86 GRETNA                                      0     1     0    12    21   92.230
+  87 PATRICK COUNTY                              0     1     0     8    36   92.178
+  88 WOODSIDE                                    2     7     0    87   195   92.084
+  89 BOOKER T. WASHINGTON                        2     8     0    62   168   92.031
+  90 MONACAN                                     0     1     0    22    30   92.030
+  91 BROADWAY                                    0     1     0     7    17   91.859
+  92 MENCHVILLE                                  2     7     0    52   233   91.559
+  93 LAKELAND                                    0    10     0   105   248   91.500
+  94 GRAHAM                                      2     1     0    76    69   91.160
+  95 E.C. GLASS                                  0     1     0    21    24   90.255
+  96 GLOUCESTER                                  1     8     0    42   230   88.779
+  97 GRAYSON                                     0     1     0    21    29   88.142
+  98 GEORGE MASON                                0     1     0    29    51   88.137
+  99 CULPEPER COUNTY                             1     1     0    24    33   87.823
+ 100 WEST POTOMAC                                2     1     0    82    55   87.798
+ 101 KING WILLIAM                                0     1     0     6    30   87.048
+ 102 RYE COVE                                    0     2     0    36    70   86.216
+ 103 JOHN BATTLE                                 1     1     0    45    42   85.902
+ 104 LEE                                         0     1     0    12    24   85.356
+ 105 ESSEX                                       1     1     0    48    39   85.170
+ 106 PATRICK HENRY(A)                            1     1     0    31    56   85.105
+ 107 SHERANDO                                    1     1     0    24    38   84.860
+ 108 JEFFERSON FOREST                            0     1     0     0    40   84.099
+ 109 POCAHONTAS                                  0     1     0     6    31   82.824
+ 110 WILLIAM FLEMING                             0     1     0    13    14   82.191
+ 111 LEBANON                                     1     1     0    54    55   82.088
+ 112 NARROWS                                     1     1     0    16    41   81.960
+ 113 YORKTOWN                                    0     1     0    21    27   81.310
+ 114 HOPEWELL                                    0     1     0    23    24   79.556
+ 115 BASSETT                                     0     1     0     7    28   78.736
+ 116 CHRISTIANSBURG                              0     1     0     0    34   78.511
+ 117 SPOTSWOOD                                   0     1     0    14    24   76.962
+ 118 FLOYD COUNTY                                0     1     0    12    31   75.678
+ 119 POQUOSON                                    0     1     0     0    38   74.689
+ 120 ARCADIA                                     0     1     0    17    48   74.005
+ 121 GALAX                                       0     1     0     0     8   73.143
+ 122 PARK VIEW(S)                                1     1     0    55    63   73.067
+ 123 LAUREL PARK                                 0     1     0    14    34   72.099
+ 124 MOUNT VERNON                                0     1     0    21    47   63.481

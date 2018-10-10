@@ -1,418 +1,436 @@
 Rank                                           Won  Lost  Tied    PF    PA   Rating
-   1 GOOD COUNSEL, MD                            1     0     0    55     0  174.366
-   2 GONZAGA COLLEGE, DC                         1     0     0    38     0  146.572
-   3 PEDDIE, NJ                                  1     0     0    42     7  134.263
-   4 MANCHESTER                                  4     0     0   233    18  133.748
-   5 HIGHLAND SPRINGS                            5     0     0   286    14  131.411
-   6 FLINT HILL                                  3     0     0   137    28  129.735
-   7 STONE BRIDGE                                4     0     0   203    37  128.798
-   8 CHARLOTTE LATIN, NC                         1     0     0    26    20  127.623
-   9 LANDON, MD                                  1     0     0    47    37  127.537
-  10 WOODSTOCK CENTRAL                           3     0     0   120     0  126.447
-  11 LAFAYETTE                                   3     0     0   136    18  126.013
-  12 CENTREVILLE                                 5     0     0   175    43  125.586
-  13 VARINA                                      4     0     0   196    13  125.197
-  14 WESTFIELD                                   4     0     0   159    67  123.714
-  15 FRIENDSHIP-EDISON, DC                       1     0     0    20     7  123.378
-  16 RIDGEVIEW                                   5     0     0   226    33  122.451
-  17 BISHOP MCNAMARA, MD                         1     0     0    36     0  122.390
-  18 NORTHSIDE                                   5     0     0   180   105  122.236
-  19 EASTERN VIEW                                5     0     0   239    41  121.640
-  20 POQUOSON                                    3     0     0   120    20  121.605
-  21 BROOKVILLE                                  4     0     0   171    10  121.236
-  22 MARTINSBURG, WV                             1     0     0    62    12  121.182
-  23 BLACKSBURG                                  5     0     0   204    87  121.166
-  24 BROAD RUN                                   5     0     0   149    27  121.082
-  25 WOODBERRY FOREST                            1     2     0    88   101  121.057
-  26 PALLOTTI, MD                                1     0     0    42    13  121.054
-  27 COVENANT SCHOOL                             3     0     0   180    20  121.028
-  28 HOPEWELL                                    3     0     0    89    14  120.919
-  29 W.T. WOODSON                                4     0     0   137    29  120.832
-  30 MASSAPONAX                                  5     0     0   211    38  120.778
-  31 LAKE TAYLOR                                 4     0     0   199   105  120.767
-  32 INDIAN RIVER                                4     0     0   184    34  120.378
-  33 COLLEGIATE                                  2     1     0    45    52  120.195
-  34 NORTHEASTERN, NC                            1     0     0    48    20  120.031
-  35 CHILHOWIE                                   5     0     0   231    29  119.209
-  36 LOUISA                                      4     0     0   162    39  119.119
-  37 DINWIDDIE                                   4     0     0   223    77  119.023
-  38 EAST ROCKINGHAM                             5     0     0   199    43  118.318
-  39 BLUEFIELD, WV                               2     0     0    98    32  118.002
-  40 BISHOP SULLIVAN CATHOLIC                    1     3     0    52   148  117.850
-  41 SHERANDO                                    5     0     0   273    53  117.743
-  42 RIVERDALE BAPTIST, MD                       1     0     0    14     5  117.643
-  43 SOUTH COUNTY                                2     2     0   102    63  117.122
-  44 JEFFERSON FOREST                            4     0     0   176    80  117.028
-  45 FREEDOM(PW)                                 3     1     0   172    73  116.832
-  46 PULASKI COUNTY                              4     1     0   208    57  116.089
-  47 LAKE BRADDOCK                               2     2     0   110   140  116.067
-  48 WOODBRIDGE                                  4     0     0   171     7  115.851
-  49 LORD BOTETOURT                              3     2     0   207   113  115.797
-  50 HERITAGE(LYN)                               3     1     0   127   104  115.699
-  51 KETTLE RUN                                  4     0     0   139    34  115.657
-  52 REIDSVILLE, NC                              1     0     0    34    12  115.516
-  53 BULLIS, MD                                  1     0     0    42     6  115.452
-  54 LOUDOUN COUNTY                              5     0     0   211    53  115.417
-  55 YORK                                        4     0     0   133    50  115.323
-  56 JAMES MADISON                               4     1     0   174    94  115.282
-  57 ST. CHRISTOPHER'S                           2     1     1   112   102  115.242
-  58 UNION                                       4     1     0   158    95  115.026
-  59 GLENVAR                                     5     0     0   160    81  114.832
-  60 OCEAN LAKES                                 5     0     0   144    35  114.787
-  61 TRINITY EPISCOPAL                           2     1     1   124    88  114.694
-  62 WOODROW WILSON, DC                          1     0     0    37    29  114.632
-  63 COLONIAL FORGE                              5     0     0   201    56  114.546
-  64 OSCAR SMITH                                 4     0     0   188    39  114.449
-  65 SOUTH LAKES                                 3     2     0   138    66  114.382
-  66 SALEM                                       2     3     0   134   103  114.344
-  67 L.C. BIRD                                   5     0     0   118    58  114.339
-  68 THEODORE ROOSEVELT, DC                      1     0     0    43    20  113.969
-  69 WEST POINT                                  3     0     0   108    34  113.902
-  70 MOUNTAIN VIEW                               4     0     0   145    54  113.741
-  71 GALAX                                       3     1     0   137    56  113.578
-  72 TENNESSEE, TN                               2     0     0    83    21  113.388
-  73 JOHN CHAMPE                                 1     4     0    67   103  113.345
-  74 EDEN MOREHEAD, NC                           1     0     0    48     6  113.265
-  75 FAITH CHRISTIAN, NC                         2     0     0   120    52  113.020
-  76 GEORGE WASHINGTON                           3     1     0   191    67  112.666
-  77 STONEWALL JACKSON(M)                        2     3     0    88   127  112.074
-  78 MAURY                                       4     1     0   155   101  112.058
-  79 THOMAS DALE                                 3     1     0   123    64  111.987
-  80 MONACAN                                     3     1     0   121   102  111.882
-  81 E.C. GLASS                                  3     1     0   150    48  111.741
-  82 COURTLAND                                   2     2     0    75    94  111.615
-  83 KING WILLIAM                                4     0     0   199    24  111.587
-  84 WARHILL                                     3     0     0   120    43  111.438
-  85 ST. STEPHEN'S & ST. AGNES                   3     1     0   129    44  111.143
-  86 TABB                                        1     3     0    34   125  111.073
-  87 MOUNT VERNON                                5     0     0   253    76  110.952
-  88 HEDGESVILLE, WV                             1     0     0    45    20  110.680
-  89 RADFORD                                     4     1     0   133    73  110.678
-  90 BELL MULTICULTURAL, DC                      1     0     0    14    12  110.565
-  91 WOODGROVE                                   2     2     0   111   102  110.407
-  92 RICHLANDS                                   2     2     0   114   119  110.356
-  93 CORNERSTONE CHRISTIAN, TX                   1     0     0    23    14  110.344
-  94 JAMES ROBINSON                              4     0     0   171    53  110.323
-  95 NEW KENT                                    1     2     0    51    47  110.247
-  96 EPISCOPAL                                   2     0     0    61    17  110.216
-  97 RIVERHEADS                                  3     1     0   142    47  110.092
-  98 NANSEMOND-SUFFOLK ACADEMY                   5     0     0   203    67  110.039
-  99 NORVIEW                                     1     3     0   112   183  109.968
- 100 GRAHAM                                      3     1     0   127    80  109.510
- 101 LIBERTY(BED)                                3     1     0   142    98  109.217
- 102 BISHOP O'CONNELL                            1     3     0   106   132  109.105
- 103 RAPPAHANNOCK                                3     1     0   138    36  108.814
- 104 BROOKE POINT                                3     1     0   108    36  108.725
- 105 COSBY                                       3     2     0    86   123  108.635
- 106 BENEDICTINE                                 2     1     0    86    37  108.499
- 107 RIVERSIDE                                   4     1     0    95    41  108.413
- 108 GRETNA                                      4     1     0   226    21  108.405
- 109 SAINT JAMES, MD                             1     0     0    36    14  108.342
- 110 WOODSIDE                                    3     1     0    98    78  108.330
- 111 AVALON, MD                                  1     0     0    21    20  108.262
- 112 PHOEBUS                                     2     0     0    82    14  108.149
- 113 YORKTOWN                                    1     3     0    97   115  108.140
- 114 SMITHFIELD                                  1     3     0    94   145  108.135
- 115 KINSTON PARROTT ACADEMY, NC                 1     0     0    42    22  108.009
- 116 PAUL VI                                     2     2     0    84   117  107.902
- 117 AMELIA COUNTY                               4     0     0   146    57  107.834
- 118 PATRIOT                                     2     2     0   135   114  107.779
- 119 HUGUENOT                                    2     2     0   104    65  107.649
- 120 WESTERN ALBEMARLE                           3     1     0    92    83  107.525
- 121 KING'S FORK                                 4     0     0   144    34  107.492
- 122 HAYFIELD                                    3     1     0    96    73  107.384
- 123 J.I. BURTON                                 2     2     0   122    97  107.211
- 124 ST. DAVID'S, NC                             1     0     0    51    19  107.019
- 125 HANDLEY                                     4     1     0   136    94  107.008
- 126 PETERSBURG                                  3     1     0   136    76  106.870
- 127 NORTH STAFFORD                              3     1     0   117    75  106.865
- 128 WEST FORSYTH, NC                            0     1     0    26    41  106.822
- 129 ST. ANNE'S-BELFIELD                         2     2     0   130   118  106.776
- 130 DANIEL BOONE, TN                            1     0     0    48    13  106.735
- 131 APPOMATTOX                                  3     1     0   142    80  106.725
- 132 COLONIAL HEIGHTS                            2     1     0    51    67  106.667
- 133 NANSEMOND RIVER                             2     2     0    89    64  106.468
- 134 WILLIAM BYRD                                4     1     0   190    82  106.446
- 135 LANDSTOWN                                   5     0     0   121    21  106.374
- 136 GOOCHLAND                                   4     0     0   140    27  106.249
- 137 WEST POTOMAC                                2     2     0    94   123  105.965
- 138 NORFOLK CHRISTIAN                           2     1     0    80    95  105.891
- 139 EASTERN, DC                                 1     0     0    37    20  105.817
- 140 CULPEPER COUNTY                             2     3     0    70   131  105.812
- 141 PERSON, NC                                  1     0     0    14     7  105.717
- 142 TUSCARORA                                   2     2     0   105    95  105.685
- 143 STEPHEN DECATUR, MD                         1     0     0    58    20  105.511
- 144 POTOMAC SCHOOL                              3     1     0   118    56  105.483
- 145 TALLWOOD                                    4     1     0   153    90  105.439
- 146 LURAY                                       5     0     0   201    91  105.387
- 147 POWHATAN                                    2     1     0    56    35  105.327
- 148 GRAYSON COUNTY                              4     1     0   106    68  105.233
- 149 SALEM(VB)                                   3     1     0    81    22  105.172
- 150 LOUDOUN VALLEY                              0     3     0    32   160  105.169
- 151 BOOKER T. WASHINGTON                        3     2     0   108   103  105.152
- 152 LIBERTY(BEAL)                               2     3     0   134   143  105.120
- 153 ATLEE                                       4     0     0   109    59  105.115
- 154 COX                                         3     1     0   136    73  104.913
- 155 HALIFAX ACADEMY, NC                         1     0     0    50    48  104.878
- 156 DEEP CREEK                                  4     0     0   106    37  104.877
- 157 MILLBROOK                                   3     1     0   157   107  104.781
- 158 NORCOM                                      2     3     0    76    93  104.702
- 159 FALLS CHURCH                                1     4     0    98   170  104.604
- 160 MAGNA VISTA                                 2     2     0   100    91  104.598
- 161 SPOTSWOOD                                   3     1     0   118    73  104.543
- 162 POTOMAC FALLS                               3     2     0    97    88  104.454
- 163 VIRGINIA EPISCOPAL                          2     0     0    92    24  104.397
- 164 PATRICK HENRY(R)                            3     1     0   103   134  104.317
- 165 LIBERTY CHRISTIAN                           3     1     0   136    75  104.250
- 166 SOUTHAMPTON                                 1     2     0    71   106  103.989
- 167 FRANKLIN COUNTY                             2     3     0    94   106  103.929
- 168 GILMAN, MD                                  0     1     0    17    21  103.907
- 169 STAFFORD                                    3     2     0   106   119  103.873
- 170 NORFOLK ACADEMY                             1     2     0    79    87  103.778
- 171 MATOACA                                     0     4     0    45   133  103.731
- 172 HENRICO                                     4     0     0   185    40  103.601
- 173 GEORGE WYTHE(W)                             3     2     0   101   108  103.563
- 174 PARK VIEW(SH)                               2     2     0    94   102  103.450
- 175 SPOTSYLVANIA                                2     2     0    72    56  103.363
- 176 JUSTICE                                     4     0     0   152    96  103.343
- 177 VIRGINIA                                    3     1     0   119   112  103.328
- 178 GILES                                       3     2     0    89   120  103.297
- 179 HARRISONBURG                                2     3     0   137   141  103.182
- 180 ORANGE COUNTY                               2     2     0    81   125  103.155
- 181 FRANKLIN                                    3     1     0   141    88  102.998
- 182 COLONIAL BEACH                              3     1     0   120    55  102.996
- 183 JAMES RIVER(B)                              4     0     0   165    76  102.987
- 184 PIKE COUNTY CENTRAL, KY                     1     0     0    45     6  102.985
- 185 GLEN ALLEN                                  3     1     0   115    80  102.930
- 186 CLOVER HILL                                 4     1     0   109    77  102.886
- 187 SULLIVAN SOUTH, TN                          1     0     0    28    13  102.884
- 188 MEADOWBROOK                                 0     4     0    38   163  102.798
- 189 NORTH CROSS                                 3     2     0   173    86  102.777
- 190 MIDLOTHIAN                                  1     3     0    27    89  102.705
- 191 LIFE CHRISTIAN                              1     3     0   100    79  102.695
- 192 JAMES BENNETT, MD                           1     0     0    56    14  102.683
- 193 CHANCELLOR                                  2     3     0   119   196  102.408
- 194 BUFFALO GAP                                 3     2     0   142   162  102.387
- 195 R.E. LEE(ST)                                3     2     0   171   163  102.327
- 196 FAIRFAX                                     3     2     0    90    76  101.891
- 197 ABINGDON                                    3     2     0   139   100  101.658
- 198 HERITAGE(NN)                                1     2     0    60    89  101.427
- 199 JAMES WOOD                                  2     3     0    94   166  101.012
- 200 TUNSTALL                                    3     1     0   119   103  100.994
- 201 LETCHER COUNTY CENTRAL, KY                  0     1     0     7    34  100.988
- 202 PENDLETON COUNTY, WV                        1     0     0    32     9  100.980
- 203 GEORGE MARSHALL                             2     2     0    95    94  100.796
- 204 CURRITUCK COUNTY, NC                        1     0     0    12     6  100.750
- 205 CARROLL COUNTY                              1     4     0    74   137  100.738
- 206 AMHERST COUNTY                              0     4     0    28   164  100.671
- 207 ROCKBRIDGE COUNTY                           3     2     0   144   130  100.650
- 208 DOMINION                                    3     2     0    87   111  100.583
- 209 FLUVANNA                                    3     1     0   114    73  100.505
- 210 FIRST FLIGHT, NC                            1     1     0    87    61  100.454
- 211 WILLIAM CAMPBELL                            4     0     0   155    57  100.368
- 212 DOUGLAS FREEMAN                             3     2     0   130   117  100.278
- 213 HIDDEN VALLEY                               1     4     0   100   175  100.269
- 214 WEST SPRINGFIELD                            3     1     0   142   123  100.232
- 215 CHURCHLAND                                  2     2     0    72    55  100.080
- 216 PRINCE GEORGE                               2     2     0   102   116   99.916
- 217 FREDERICKSBURG CHRISTIAN                    3     1     0   158    65   99.911
- 218 NARROWS                                     3     1     0   114    45   99.656
- 219 ROANOKE CATHOLIC                            3     0     0   167    28   99.541
- 220 C.D. HYLTON                                 2     2     0    77    78   99.417
- 221 SOUTHAMPTON ACADEMY                         2     2     0   165   130   99.328
- 222 LANGLEY                                     1     4     0    86   144   99.245
- 223 POTOMAC                                     1     4     0    87   138   99.118
- 224 RUSTBURG                                    2     2     0   106    82   99.071
- 225 CHANTILLY                                   1     4     0   107   130   98.978
- 226 T.C. WILLIAMS                               2     2     0   118   114   98.933
- 227 BRIAR WOODS                                 1     4     0    99   122   98.926
- 228 JEFFERSON, WV                               0     2     0    32    72   98.874
- 229 BATTLEFIELD                                 3     2     0   122    74   98.842
- 230 BRENTSVILLE DISTRICT                        0     1     0     0    35   98.756
- 231 KELLAM                                      2     2     0    55    83   98.734
- 232 WARWICK                                     4     1     0   103    74   98.593
- 233 COVINGTON                                   2     2     0    97    94   98.513
- 234 GRUNDY                                      3     1     0   115    73   98.351
- 235 TURNER ASHBY                                2     2     0   114   146   98.319
- 236 RIVERBEND                                   1     4     0    75   217   98.307
- 237 STRASBURG                                   3     1     0   130    62   98.207
- 238 BRENTSVILLE                                 1     3     0    28   118   98.154
- 239 WASHINGTON & LEE                            2     2     0   130    64   98.143
- 240 BAYSIDE                                     2     2     0    89    90   98.114
- 241 FORK UNION                                  0     4     0    42   144   98.049
- 242 BISHOP IRETON                               1     3     0    42   117   97.987
- 243 PATRICK HENRY(GS)                           5     0     0   233   115   97.846
- 244 JAMESTOWN                                   1     2     0    50   100   97.796
- 245 BLUE RIDGE                                  1     3     0   101   170   97.736
- 246 HALIFAX COUNTY                              1     3     0    82   109   97.663
- 247 ISLE OF WIGHT ACADEMY                       3     2     0   144    87   97.573
- 248 CHRISTCHURCH                                1     1     0    18    47   97.523
- 249 JAMES MONROE                                1     3     0   108   136   97.488
- 250 GRASSFIELD                                  0     4     0    32   118   97.480
- 251 ALBEMARLE                                   0     4     0    45   173   97.456
- 252 FORT CHISWELL                               2     2     0    73    68   97.453
- 253 SKYLINE                                     2     3     0    77   140   97.425
- 254 NORTHUMBERLAND                              2     0     0    98     7   97.376
- 255 WAKEFIELD                                   1     3     0    57   156   97.361
- 256 AUBURN                                      3     2     0   151    77   97.330
- 257 GLOUCESTER                                  1     3     0   114   147   97.252
- 258 DEEP RUN                                    2     2     0   105   109   97.176
- 259 CAVE SPRING                                 3     3     0   184   175   97.064
- 260 CENTRAL WISE                                1     3     0    78   166   96.871
- 261 WILSON                                      2     3     0    79   107   96.786
- 262 PRINCESS ANNE                               1     4     0    44   111   96.613
- 263 LEE                                         2     3     0    95   162   96.487
- 264 TAZEWELL                                    1     3     0   128   176   96.471
- 265 LEE-DAVIS                                   1     3     0    76   165   96.428
- 266 ESSEX                                       2     2     0   116    84   96.391
- 267 BLUESTONE                                   2     3     0    84   122   96.350
- 268 GREENBRIER CHRISTIAN                        2     2     0    56   121   96.188
- 269 CLARKE COUNTY                               2     2     0   143    81   96.171
- 270 JOHN MARSHALL                               2     3     0   116   103   96.078
- 271 CHRISTIANSBURG                              1     3     0    48    94   95.975
- 272 FORT DEFIANCE                               3     2     0    75    77   95.734
- 273 HERITAGE(LEE)                               2     2     0   127    75   95.700
- 274 WILLIAM FLEMING                             0     4     0    38   158   95.458
- 275 PRINCE EDWARD COUNTY                        3     2     0   165   142   95.287
- 276 HAMPTON                                     2     1     0    35    16   95.226
- 277 ANNANDALE                                   0     4     0    57   159   95.201
- 278 HERNDON                                     2     2     0    62    84   95.022
- 279 WARREN COUNTY                               0     4     0    56    97   95.016
- 280 BROADWAY                                    1     4     0    83   134   94.836
- 281 JOHN BATTLE                                 2     3     0   110   117   94.615
- 282 FIRST COLONIAL                              0     4     0    28    78   94.573
- 283 JAMES RIVER(M)                              0     5     0   126   209   94.516
- 284 MONTICELLO                                  1     3     0    86   101   94.434
- 285 COLGAN                                      1     3     0    51   102   94.423
- 286 PAGE COUNTY                                 3     1     0   101    62   94.408
- 287 KING GEORGE                                 1     4     0    63   150   94.285
- 288 PARRY MCCLUER                               1     3     0   121   123   94.214
- 289 ARCADIA                                     3     2     0   181   136   94.107
- 290 BUCKINGHAM COUNTY                           2     3     0    75    83   93.946
- 291 THOMAS JEFFERSON(R)                         2     2     0    73    94   93.925
- 292 EDISON                                      2     2     0    77   112   93.747
- 293 GATE CITY                                   0     5     0    59   196   93.690
- 294 FOREST PARK                                 1     4     0    64   142   93.617
- 295 MARTINSVILLE                                1     3     0    74   182   93.613
- 296 ARMSTRONG                                   1     4     0   119   158   93.546
- 297 WASHINGTON-LEE                              0     4     0    70   147   93.374
- 298 FAUQUIER                                    0     4     0    59   123   93.301
- 299 MILLS GODWIN                                1     3     0    34    55   93.296
- 300 LUNENBURG CENTRAL                           2     3     0   100   133   93.267
- 301 KENSTON FOREST                              1     2     0    54   121   92.995
- 302 HICKORY                                     1     3     0    34    82   92.955
- 303 CHARLOTTESVILLE                             0     5     0    86   207   92.864
- 304 ALLEGHANY COUNTY, NC                        0     1     0     7    28   92.835
- 305 FLOYD COUNTY                                1     4     0    95    92   92.725
- 306 GREAT BRIDGE                                0     4     0    16   148   92.621
- 307 OSBOURN PARK                                1     3     0    59   145   92.538
- 308 ALTAVISTA                                   2     3     0   113   174   92.516
- 309 MARION                                      1     3     0    81   120   92.406
- 310 ST. JOHN PAUL THE GREAT                     0     4     0    17   121   92.399
- 311 HOLSTON                                     4     1     0   154    65   92.195
- 312 KECOUGHTAN                                  2     2     0    49    82   92.124
- 313 DAN RIVER                                   1     4     0    76   163   92.115
- 314 WILSON MEMORIAL                             2     2     0   162   112   91.926
- 315 GEORGE MASON                                2     1     0   108    42   91.859
- 316 GREENBRIER WEST, WV                         0     1     0    20    27   91.763
- 317 GREEN RUN                                   0     5     0    49   125   91.679
- 318 PATRICK HENRY(A)                            1     3     0    73   120   91.418
- 319 R.E. LEE(SP)                                0     4     0    87   142   91.255
- 320 WEST GREENE, TN                             1     0     0    28    26   91.148
- 321 EASTSIDE                                    1     3     0   134   149   91.062
- 322 ATLANTIC SHORES CHRISTIAN                   2     3     0   102    99   90.773
- 323 HAMPTON ROADS ACADEMY                       0     4     0    36   122   90.673
- 324 ROCK RIDGE                                  0     4     0    26   161   89.521
- 325 NOTTOWAY                                    1     3     0    50    99   89.160
- 326 HANOVER                                     0     4     0    33   149   89.079
- 327 NANDUA                                      2     3     0   139   207   88.879
- 328 BATH COUNTY                                 2     2     0   108   137   88.816
- 329 WILLIAM MONROE                              1     4     0    55   141   88.807
- 330 BASSETT                                     0     4     0    47   105   88.690
- 331 LAKELAND                                    0     4     0    19   158   88.645
- 332 MADISON COUNTY                              0     4     0    90   155   88.624
- 333 ST. ALBANS, DC                              0     2     0    24    84   88.476
- 334 GRAFTON                                     0     3     0    13    85   88.444
- 335 BETHEL                                      1     4     0    57   109   88.228
- 336 GAR-FIELD                                   1     3     0    40    83   88.079
- 337 DENBIGH                                     0     4     0    40   172   87.904
- 338 GEORGE WYTHE(R)                             0     4     0    46   181   87.722
- 339 STUARTS DRAFT                               1     3     0    50   105   87.675
- 340 HONAKER                                     3     1     0   103    62   87.652
- 341 GRANBY                                      0     4     0    21   118   87.440
- 342 KEMPSVILLE                                  0     5     0    20   172   87.434
- 343 NORTHAMPTON                                 3     1     0    99    76   87.432
- 344 MCLEAN                                      0     4     0    42   128   87.311
- 345 HERMITAGE                                   0     5     0    14   248   87.091
- 346 PATRICK COUNTY                              1     4     0    69   128   86.946
- 347 RANDOLPH-HENRY                              0     4     0    47   177   86.918
- 348 EASTERN MONTGOMERY                          2     3     0    52   129   86.851
- 349 STAUNTON RIVER                              0     4     0    78   217   86.684
- 350 BRUNSWICK ACADEMY                           0     4     0    59   215   86.561
- 351 CAROLINE                                    1     4     0    58   151   86.486
- 352 FREEDOM(LC)                                 0     4     0    24   157   86.347
- 353 SUSSEX CENTRAL                              0     3     0    14    92   86.194
- 354 J.R. TUCKER                                 0     4     0    70   118   86.073
- 355 ALLEGHANY                                   0     5     0    52   211   86.065
- 356 BLESSED SACRAMENT-HUGUENOT                  3     1     0   135    93   85.881
- 357 PORTSMOUTH CHRISTIAN                        0     3     0    26   137   85.716
- 358 CHATHAM                                     0     5     0    66   238   85.619
- 359 WESTERN BRANCH                              0     4     0    27   142   85.574
- 360 THOMAS WALKER                               3     2     0   121   100   85.430
- 361 RURAL RETREAT                               0     4     0    35   138   85.312
- 362 BRUNSWICK                                   1     3     0    26   156   85.103
- 363 CARY CHRISTIAN, NC                          0     1     0    12    35   85.083
- 364 RANDOLPH-MACON                              1     0     0    30     6   84.982
- 365 HURLEY                                      3     2     0    78    78   84.267
- 366 LANCASTER                                   1     1     0    58    36   83.708
- 367 MENCHVILLE                                  0     3     0    44    76   83.688
- 368 HARGRAVE MILITARY                           0     3     0    47   149   83.305
- 369 CENTRAL VIRGINIA DISCIPLES                  0     1     0     6    52   83.113
- 370 BLAND COUNTY                                2     2     0   101    82   82.913
- 371 GREENSVILLE COUNTY                          2     1     0    90    60   82.281
- 372 MANASSAS PARK                               1     0     0    27    12   82.243
- 373 WAYNESBORO                                  0     5     0    68   218   82.215
- 374 CUMBERLAND                                  0     3     0    34   146   81.699
- 375 LEBANON                                     0     4     0    50   154   81.404
- 376 NELSON COUNTY                               1     4     0    71   179   81.238
- 377 STONEWALL JACKSON(Q)                        0     5     0    21   235   80.942
- 378 GRACE CHRISTIAN                             0     1     0    33    58   80.636
- 379 FISHBURNE MILITARY                          1     2     0    38   113   80.455
- 380 RIVER VIEW, WV                              0     3     0    56   117   80.043
- 381 NORTHERN VIRGINIA HOMESCHOOL                2     0     0    89    31   79.706
- 382 HARLAN, KY                                  0     1     0    24    29   79.219
- 383 ST. MICHAEL                                 2     0     0    78     6   78.967
- 384 CASTLEWOOD                                  1     4     0    36   127   78.389
- 385 MIDDLESEX                                   0     3     0     7   136   77.956
- 386 BROADWATER ACADEMY                          1     2     0    77   110   77.669
- 387 FUQUA SCHOOL                                1     3     0    81   126   77.604
- 388 WASHINGTON, WV                              0     3     0    14   144   77.103
- 389 WINDSOR                                     1     3     0    53   108   76.674
- 390 CRAIG COUNTY                                1     3     0    78   139   76.271
- 391 SURRY COUNTY                                0     4     0    55   169   75.802
- 392 MARET, DC                                   0     1     0     0    40   75.661
- 393 RYE COVE                                    1     4     0    74   104   75.566
- 394 OSBOURN                                     0     5     0    20   260   74.990
- 395 OAKTON                                      0     4     0     7   183   74.030
- 396 THOMAS JEFFERSON(A)                         0     4     0    37   132   72.830
- 397 WELDON, NC                                  0     1     0    12    28   72.691
- 398 TWIN VALLEY                                 3     2     0   152   145   71.842
- 399 MASSANUTTEN MILITARY                        1     1     0    20    36   71.036
- 400 NORTH STOKES, NC                            0     1     0     0    23   70.981
- 401 BRUTON                                      0     2     0     6   118   70.411
- 402 MATHEWS                                     0     4     0    12   176   69.791
- 403 CHINCOTEAGUE                                1     1     0    57    49   69.211
- 404 NORTHWOOD                                   1     4     0    92   233   66.897
- 405 HAMPTON ROADS GENERALS                      1     1     0    40    62   66.760
- 406 MONTCALM, WV                                0     3     0    28    96   66.389
- 407 QUANTICO                                    0     3     0    14    96   64.613
- 408 HANCOCK COUNTY, TN                          0     1     0     8    28   63.869
- 409 RICHMOND CHRISTIAN                          0     3     0    20   119   62.296
- 410 TWIN SPRINGS                                0     5     0    54   238   62.281
- 411 SHELBY VALLEY, KY                           0     1     0     0    49   61.841
- 412 KING & QUEEN                                0     3     0    44   162   61.491
- 413 RAPPAHANNOCK COUNTY                         0     4     0    12   205   61.260
- 414 JENKINS, KY                                 0     1     0    18    54   60.291
- 415 PHELPS SCHOOL, DC                           0     1     0     0    51   49.692
- 416 VIRGINIA SPARTANS                           0     1     0     2    40   45.015
- 417 SNOW HILL, MD                               0     1     0     0    51   43.995
+   1 GOOD COUNSEL, MD                            1     0     0    55     0  170.448
+   2 DELMAR, DE                                  1     0     0    48     0  150.788
+   3 MANCHESTER                                  6     0     0   363    18  142.099
+   4 GEORGETOWN PREP, DC                         1     0     0    13     3  135.137
+   5 GONZAGA COLLEGE, DC                         1     0     0    38     0  134.715
+   6 CHARLOTTE LATIN, NC                         1     0     0    26    20  131.742
+   7 LANDON, MD                                  1     0     0    47    37  131.656
+   8 STONE BRIDGE                                6     0     0   294    50  130.920
+   9 CENTREVILLE                                 7     0     0   278    43  127.945
+  10 FRIENDSHIP-EDISON, DC                       1     0     0    20     7  127.433
+  11 FLINT HILL                                  5     0     0   213    41  126.088
+  12 COLONIAL FORGE                              7     0     0   253    56  125.970
+  13 WESTFIELD                                   6     0     0   204    82  125.852
+  14 VARINA                                      5     0     0   238    13  125.598
+  15 EPISCOPAL                                   4     0     0   116    39  125.516
+  16 WOODBERRY FOREST                            2     3     0   139   127  125.174
+  17 BROAD RUN                                   6     0     0   189    30  124.981
+  18 HIGHLAND SPRINGS                            7     0     0   374    27  124.948
+  19 W.T. WOODSON                                5     0     0   155    36  124.812
+  20 BISHOP MCNAMARA, MD                         1     0     0    36     0  124.593
+  21 ST. MARY'S RYKEN, MD                        1     0     0    42     6  123.381
+  22 LAFAYETTE                                   4     0     0   195    32  123.267
+  23 NORTHSIDE                                   7     0     0   270   133  123.194
+  24 ST. FRANCES, MD                             1     0     0    51     6  121.403
+  25 COVENANT SCHOOL                             4     0     0   242    20  121.195
+  26 MARTINSBURG, WV                             2     0     0   112    57  120.823
+  27 OSCARM SMITH                                1     0     0    35     8  120.805
+  28 RIVERDALE BAPTIST, MD                       1     0     0    14     5  120.307
+  29 PEDDIE, NJ                                  1     0     0    42     7  120.268
+  30 HERITAGE(LYN)                               5     1     0   178   131  119.863
+  31 MASSAPONAX                                  6     1     0   230    73  119.676
+  32 BLACKSBURG                                  7     0     0   261   108  119.642
+  33 EAST ROCKINGHAM                             6     0     0   240    45  119.475
+  34 SOUTH COUNTY                                2     3     0   109    81  119.418
+  35 BLUEFIELD, WV                               3     0     0   142    42  119.275
+  36 EASTERN VIEW                                7     0     0   344    69  119.259
+  37 GILMAN, MD                                  0     1     0    17    21  119.219
+  38 LAKE BRADDOCK                               4     2     0   213   140  119.177
+  39 GEORGETOWN PREP, MD                         1     0     0    24    14  119.052
+  40 WOODBRIDGE                                  6     0     0   247    39  118.772
+  41 RIDGEVIEW                                   6     0     0   261    40  118.193
+  42 E.C. GLASS                                  5     1     0   222    62  118.171
+  43 JEFFERSON FOREST                            5     0     0   242   123  118.121
+  44 JAMES MADISON                               4     2     0   189   111  118.077
+  45 INDIAN RIVER                                6     0     0   290    37  118.014
+  46 BULLIS, MD                                  1     0     0    42     6  117.975
+  47 PALLOTTI, MD                                1     0     0    42    13  117.866
+  48 LAKE TAYLOR                                 6     0     0   267   129  117.849
+  49 LOUISA                                      6     0     0   222    70  117.835
+  50 DINWIDDIE                                   6     0     0   300   121  117.779
+  51 LOUDOUN COUNTY                              6     0     0   239    53  117.757
+  52 JOHN CHAMPE                                 2     4     0    88   103  117.397
+  53 WOODSTOCK CENTRAL                           5     0     0   182    20  117.286
+  54 GEORGE WASHINGTON                           5     1     0   287    74  117.097
+  55 COLLEGIATE                                  2     3     0    75   134  116.978
+  56 HOPEWELL                                    5     0     0   173    43  116.703
+  57 ST. CHRISTOPHER'S                           4     1     1   208   129  116.656
+  58 CHILHOWIE                                   6     0     0   268    36  116.442
+  59 KETTLE RUN                                  6     0     0   218    62  115.939
+  60 LORD BOTETOURT                              4     2     0   264   120  115.861
+  61 GLENVAR                                     7     0     0   222    90  115.765
+  62 SHERANDO                                    5     1     0   318   103  115.580
+  63 EDEN MOREHEAD, NC                           1     0     0    48     6  115.204
+  64 WOODROW WILSON, DC                          1     0     0    37    29  115.096
+  65 REIDSVILLE, NC                              1     0     0    34    12  115.040
+  66 OCEAN LAKES                                 7     0     0   196    41  115.033
+  67 SOUTH LAKES                                 4     2     0   172    94  114.953
+  68 FREEDOM(PW)                                 5     1     0   277   105  114.924
+  69 THEODORE ROOSEVELT, DC                      1     0     0    43    20  114.863
+  70 WOODGROVE                                   3     2     0   154   109  114.653
+  71 PERSON, NC                                  1     0     0    14     7  114.596
+  72 GALAX                                       4     2     0   196   126  114.485
+  73 MOUNTAIN VIEW                               4     1     0   161    71  114.460
+  74 PULASKI COUNTY                              6     1     0   299   106  114.202
+  75 PATRIOT                                     3     3     0   164   161  114.134
+  76 SALEM                                       4     3     0   217   131  114.085
+  77 HAYFIELD                                    5     1     0   164   118  113.883
+  78 TRINITY EPISCOPAL                           3     2     1   158   136  113.720
+  79 RADFORD                                     6     1     0   224    93  113.174
+  80 BROOKE POINT                                4     2     0   125    69  113.113
+  81 L.C. BIRD                                   6     0     0   132    65  113.110
+  82 ST. STEPHEN'S & ST. AGNES                   4     2     0   168    71  113.066
+  83 BROOKVILLE                                  4     2     0   178    73  112.864
+  84 GRETNA                                      6     1     0   336    27  112.802
+  85 LIBERTY CHRISTIAN                           4     1     0   159    89  112.615
+  86 APPOMATTOX                                  4     1     0   205    94  112.117
+  87 NORTHEASTERN, NC                            1     0     0    48    20  112.059
+  88 MAURY                                       6     1     0   275   101  111.809
+  89 OSCAR SMITH                                 5     0     0   232    39  111.711
+  90 UNION                                       6     1     0   228   122  111.692
+  91 STONEWALL JACKSON(M)                        2     5     0   114   177  111.503
+  92 BELL MULTICULTURAL, DC                      1     0     0    14    12  111.460
+  93 THOMAS DALE                                 4     2     0   171   105  111.442
+  94 FAITH CHRISTIAN, NC                         3     0     0   162    66  111.316
+  95 JAMES ROBINSON                              4     2     0   198   125  111.299
+  96 RIVERHEADS                                  5     1     0   263    71  111.262
+  97 BENEDICTINE                                 2     2     0   100    61  111.156
+  98 COURTLAND                                   4     2     0   140   129  110.731
+  99 TENNESSEE, TN                               2     0     0    83    21  110.369
+ 100 YORK                                        5     1     0   174   109  110.053
+ 101 MOUNT VERNON                                5     1     0   271   110  109.996
+ 102 SAINT JAMES, MD                             1     0     0    36    14  109.982
+ 103 PAUL VI                                     4     2     0   189   151  109.748
+ 104 RIVERSIDE                                   5     2     0   129    91  109.591
+ 105 PHOEBUS                                     4     1     0   160    54  109.472
+ 106 HEDGESVILLE, WV                             1     0     0    45    20  109.440
+ 107 LIBERTY(BED)                                3     3     0   176   144  109.309
+ 108 RICHLANDS                                   3     3     0   158   163  109.266
+ 109 HENRICO                                     5     1     0   236    90  109.251
+ 110 MILLBROOK                                   4     2     0   215   179  109.196
+ 111 KINSTON PARROTT ACADEMY, NC                 1     0     0    42    22  108.995
+ 112 MONACAN                                     5     1     0   196   129  108.849
+ 113 NORTH STAFFORD                              3     1     0   117    75  108.847
+ 114 COSBY                                       4     2     0    93   123  108.718
+ 115 SALEM(VB)                                   5     1     0   136    36  108.718
+ 116 WESTERN ALBEMARLE                           4     2     0   151   126  108.707
+ 117 TUSCARORA                                   3     2     0   140   102  108.692
+ 118 YORKTOWN                                    3     3     0   160   142  108.604
+ 119 POQUOSON                                    4     1     0   154    39  108.566
+ 120 CORNERSTONE CHRISTIAN, TX                   1     0     0    23    14  108.475
+ 121 ST. DAVID'S, NC                             1     0     0    51    19  108.432
+ 122 GRAHAM                                      5     1     0   226   103  108.320
+ 123 GOOCHLAND                                   6     0     0   213    35  108.279
+ 124 WILLIAM BYRD                                5     1     0   232    82  108.071
+ 125 KING WILLIAM                                4     1     0   199    51  107.837
+ 126 POTOMAC SCHOOL                              3     1     0   118    56  107.824
+ 127 PETERSBURG                                  5     1     0   214   131  107.708
+ 128 POWHATAN                                    3     2     0    93    65  107.536
+ 129 STEPHEN DECATUR, MD                         1     0     0    58    20  107.381
+ 130 NANSEMOND RIVER                             3     3     0   119   106  107.258
+ 131 TUNSTALL                                    4     2     0   153   153  107.188
+ 132 GRAYSON COUNTY                              5     1     0   139    82  106.757
+ 133 PATRICK HENRY(R)                            3     3     0   145   204  106.631
+ 134 HALIFAX COUNTY                              3     3     0   158   109  106.548
+ 135 T.C. WILLIAMS                               3     2     0   153   127  106.509
+ 136 NORFOLK ACADEMY                             2     3     0   127   129  106.494
+ 137 POTOMAC FALLS                               3     4     0   104   151  106.451
+ 138 AVALON, MD                                  1     0     0    21    20  106.392
+ 139 RUSTBURG                                    3     3     0   140   134  106.316
+ 140 WEST SPRINGFIELD                            4     1     0   168   144  106.233
+ 141 HANDLEY                                     5     2     0   177   136  106.183
+ 142 NORTHUMBERLAND                              4     0     0   172    32  106.106
+ 143 JAMES RIVER(B)                              5     1     0   203   117  105.944
+ 144 BISHOP O'CONNELL                            1     5     0   112   209  105.911
+ 145 HALIFAX ACADEMY, NC                         1     0     0    50    48  105.863
+ 146 AMELIA COUNTY                               6     0     0   275    98  105.805
+ 147 COX                                         5     1     0   223   100  105.686
+ 148 MIDLOTHIAN                                  3     3     0   102   141  105.545
+ 149 TABB                                        2     4     0    70   171  105.536
+ 150 FALLS CHURCH                                2     4     0   144   204  105.500
+ 151 COL. RICHARDSON, MD                         1     0     0    68    31  105.493
+ 152 STAFFORD                                    4     2     0   120   126  105.410
+ 153 NORCOM                                      4     3     0   165   106  105.401
+ 154 LANDSTOWN                                   5     2     0   134    44  105.396
+ 155 WARHILL                                     4     1     0   145    63  105.353
+ 156 DANIEL BOONE, TN                            1     0     0    48    13  105.352
+ 157 SPOTSWOOD                                   5     1     0   205    87  105.339
+ 158 LIBERTY(BEAL)                               3     3     0   166   166  105.275
+ 159 WEST POTOMAC                                2     4     0   107   205  105.248
+ 160 MATOACA                                     0     6     0    87   210  105.136
+ 161 HUGUENOT                                    2     4     0   124   148  105.014
+ 162 GEORGE WYTHE(W)                             4     2     0   142   125  104.874
+ 163 GEORGE MARSHALL                             4     2     0   132   125  104.840
+ 164 ST. ANNE'S-BELFIELD                         3     2     0   163   145  104.773
+ 165 MORRISTOWN WEST, TN                         0     1     0    20    28  104.759
+ 166 CULPEPER COUNTY                             3     3     0   105   152  104.350
+ 167 C.D. HYLTON                                 3     3     0   124   145  104.324
+ 168 BOOKER T. WASHINGTON                        4     3     0   152   161  104.228
+ 169 JAMES BENNETT, MD                           1     0     0    56    14  104.218
+ 170 ATLEE                                       5     1     0   153   125  104.159
+ 171 MAGNA VISTA                                 3     3     0   123   110  104.131
+ 172 SMITHFIELD                                  2     4     0   126   187  104.117
+ 173 WEST FORSYTH, NC                            0     1     0    26    41  104.107
+ 174 FRANKLIN COUNTY                             3     4     0   142   122  104.091
+ 175 FAIRFAX                                     3     3     0   111   102  104.055
+ 176 HARRISONBURG                                4     3     0   264   197  103.937
+ 177 PENDLETON COUNTY, WV                        1     0     0    32     9  103.869
+ 178 BISHOP SULLIVAN CATHOLIC                    1     3     0    52   148  103.863
+ 179 LURAY                                       5     1     0   231   135  103.855
+ 180 TALLWOOD                                    5     1     0   178   110  103.845
+ 181 ABINGDON                                    5     2     0   203   127  103.814
+ 182 JUSTICE                                     5     1     0   195   118  103.760
+ 183 RAPPAHANNOCK                                4     1     0   165    57  103.716
+ 184 NANSEMOND-SUFFOLK ACADEMY                   6     0     0   237    82  103.502
+ 185 CLOVER HILL                                 4     3     0   116    98  103.443
+ 186 VIRGINIA EPISCOPAL                          4     0     0   168    58  103.437
+ 187 NEW KENT                                    3     2     0   125    56  103.281
+ 188 COLONIAL BEACH                              4     2     0   171    88  103.198
+ 189 ALBEMARLE                                   2     4     0   100   188  103.184
+ 190 WOODSIDE                                    5     2     0   201   110  103.150
+ 191 CHANCELLOR                                  2     5     0   148   276  103.084
+ 192 DOMINION                                    3     3     0    94   138  102.931
+ 193 FIRST FLIGHT, NC                            1     1     0    87    61  102.828
+ 194 GILES                                       3     4     0   117   194  102.761
+ 195 BATTLEFIELD                                 4     2     0   160    80  102.459
+ 196 WEST POINT                                  4     1     0   181    71  102.379
+ 197 LANGLEY                                     1     5     0   114   178  102.372
+ 198 JEFFERSON, WV                               0     2     0    32    72  102.368
+ 199 FRANKLIN                                    5     1     0   216   118  102.339
+ 200 SPOTSYLVANIA                                3     3     0   144   131  102.269
+ 201 CAMBRIDGE/SD, MD                            1     0     0    64    21  102.194
+ 202 R.E. LEE(ST)                                4     3     0   264   243  102.090
+ 203 BUFFALO GAP                                 4     3     0   202   217  102.017
+ 204 HIDDEN VALLEY                               1     5     0   121   224  101.997
+ 205 NORVIEW                                     2     4     0   172   229  101.974
+ 206 PRINCE GEORGE                               3     3     0   168   152  101.933
+ 207 POTOMAC                                     2     5     0   133   213  101.912
+ 208 AMHERST COUNTY                              0     6     0    86   250  101.717
+ 209 DOUGLAS FREEMAN                             5     2     0   191   161  101.690
+ 210 ROCKBRIDGE COUNTY                           4     3     0   228   235  101.688
+ 211 CHANTILLY                                   1     5     0   120   151  101.549
+ 212 GREENSVILLE COUNTY                          1     0     0    42    24  101.531
+ 213 SULLIVAN SOUTH, TN                          1     0     0    28    13  101.507
+ 214 PIKE COUNTY CENTRAL, KY                     1     0     0    45     6  101.352
+ 215 EASTERN, DC                                 1     0     0    37    20  101.327
+ 216 BRIAR WOODS                                 2     5     0   155   171  101.312
+ 217 NARROWS                                     5     1     0   180    87  101.249
+ 218 CARROLL COUNTY                              2     4     0    88   150  101.111
+ 219 KING'S FORK                                 5     1     0   203    62  101.019
+ 220 LIFE CHRISTIAN                              1     4     0   106   130  100.823
+ 221 BRENTSVILLE                                 3     4     0    54   159  100.568
+ 222 FORK UNION                                  0     6     0    90   239  100.535
+ 223 FORT DEFIANCE                               4     2     0    94    80  100.482
+ 224 COLONIAL HEIGHTS                            2     3     0    73   158  100.428
+ 225 FLUVANNA                                    5     1     0   173   123  100.349
+ 226 STRASBURG                                   5     1     0   193    72  100.344
+ 227 SOUTHAMPTON ACADEMY                         2     3     0   179   172  100.314
+ 228 VIRGINIA                                    3     3     0   132   163  100.248
+ 229 J.I. BURTON                                 4     2     0   200   165  100.097
+ 230 PARK VIEW(SH)                               4     2     0   166   124  100.031
+ 231 DAN RIVER                                   2     4     0   113   170   99.814
+ 232 JAMES WOOD                                  2     4     0   117   198   99.777
+ 233 CLARKE COUNTY                               3     3     0   194   145   99.640
+ 234 HERITAGE(LEE)                               4     2     0   191    81   99.637
+ 235 FORT CHISWELL                               2     3     0    86   106   99.622
+ 236 BISHOP IRETON                               1     5     0    76   207   99.606
+ 237 PAGE COUNTY                                 4     2     0   174    94   99.593
+ 238 ORANGE COUNTY                               2     4     0   117   166   99.575
+ 239 BAYSIDE                                     4     2     0   118   113   99.499
+ 240 JAMES MONROE                                2     3     0   129   143   99.473
+ 241 PATRICK HENRY(GS)                           6     0     0   255   123   99.469
+ 242 WILSON MEMORIAL                             3     3     0   229   217   99.307
+ 243 COLGAN                                      2     4     0   109   149   99.188
+ 244 RIVERBEND                                   1     6     0    82   250   98.973
+ 245 BASSETT                                     1     5     0    60   146   98.819
+ 246 ESSEX                                       3     3     0   147   119   98.741
+ 247 GREENBRIER EAST, WV                         1     0     0    14     0   98.629
+ 248 DEEP CREEK                                  5     1     0   133    99   98.570
+ 249 HERNDON                                     3     2     0    89   103   98.492
+ 250 AUBURN                                      3     3     0   165   110   98.353
+ 251 COVINGTON                                   3     3     0   181   140   98.175
+ 252 CHRISTIANSBURG                              1     5     0    83   177   98.029
+ 253 FOREST PARK                                 1     5     0    83   200   97.910
+ 254 GLEN ALLEN                                  3     3     0   196   168   97.774
+ 255 EDISON                                      3     3     0   106   145   97.746
+ 256 CAVE SPRING                                 3     4     0   184   204   97.714
+ 257 LETCHER COUNTY CENTRAL, KY                  0     1     0     7    34   97.637
+ 258 GREENBRIER CHRISTIAN                        2     4     0   111   184   97.601
+ 259 ANNANDALE                                   1     5     0   114   205   97.508
+ 260 PARRY MCCLUER                               3     3     0   217   180   97.500
+ 261 WILLIAM CAMPBELL                            4     2     0   203   159   97.288
+ 262 KELLAM                                      2     4     0    76   159   97.271
+ 263 STUARTS DRAFT                               2     4     0    87   180   97.219
+ 264 CHURCHLAND                                  2     4     0    90   131   97.189
+ 265 DEEP RUN                                    3     3     0   157   151   97.044
+ 266 THOMAS JEFFERSON(R)                         3     3     0   136   158   96.936
+ 267 JOHN MARSHALL                               2     4     0   122   113   96.625
+ 268 FREDERICKSBURG CHRISTIAN                    4     1     0   209    71   96.622
+ 269 FAUQUIER                                    0     6     0    71   171   96.528
+ 270 ARMSTRONG                                   2     4     0   153   187   96.524
+ 271 JOHN BATTLE                                 3     3     0   130   117   96.397
+ 272 GRUNDY                                      5     1     0   179    95   96.309
+ 273 WILLIAM FLEMING                             0     6     0    45   233   96.295
+ 274 BUCKINGHAM COUNTY                           2     4     0    83   104   96.269
+ 275 OSBOURN PARK                                2     4     0    86   195   96.152
+ 276 MILLS GODWIN                                3     3     0    68    67   96.079
+ 277 NORTH CROSS                                 4     2     0   201   112   96.068
+ 278 PRINCESS ANNE                               2     5     0    85   127   96.027
+ 279 TURNER ASHBY                                2     4     0   145   200   95.998
+ 280 ARCADIA                                     3     4     0   212   252   95.994
+ 281 MARION                                      3     3     0   175   178   95.891
+ 282 BRUNSWICK                                   2     4     0    58   191   95.679
+ 283 MARTINSVILLE                                1     5     0    87   251   95.591
+ 284 ST. JOHN PAUL THE GREAT                     2     4     0   128   147   95.477
+ 285 MEADOWBROOK                                 0     6     0    44   213   95.444
+ 286 R.E. LEE(SP)                                0     5     0   121   188   95.222
+ 287 JAMES RIVER(M)                              0     7     0   139   321   95.195
+ 288 SKYLINE                                     2     5     0   101   203   95.068
+ 289 WARWICK                                     5     2     0   158   129   95.047
+ 290 LEE-DAVIS                                   1     4     0   105   199   94.857
+ 291 CENTRAL LUNENBURG                           4     3     0   178   159   94.833
+ 292 CURRITUCK COUNTY, NC                        1     0     0    12     6   94.733
+ 293 TAZEWELL                                    2     4     0   180   210   94.721
+ 294 ROANOKE CATHOLIC                            5     0     0   278    52   94.657
+ 295 KING GEORGE                                 1     6     0    83   198   94.528
+ 296 FIRST COLONIAL                              0     6     0    64   122   94.520
+ 297 BLUE RIDGE                                  2     4     0   175   218   94.505
+ 298 FLOYD COUNTY                                1     6     0   128   159   94.447
+ 299 WARREN COUNTY                               0     6     0    91   142   94.435
+ 300 ALLEGHANY COUNTY, NC                        0     1     0     7    28   94.344
+ 301 WASHINGTON & LEE                            2     2     0   130    64   94.001
+ 302 LEE                                         2     4     0   102   204   93.857
+ 303 ROCK RIDGE                                  1     5     0    77   210   93.681
+ 304 BROADWAY                                    1     5     0    90   174   93.573
+ 305 WILSON                                      2     4     0    79   192   93.541
+ 306 CHARLOTTESVILLE                             0     7     0   121   267   93.467
+ 307 ISLE OF WIGHT ACADEMY                       4     2     0   194    93   93.395
+ 308 SOUTHAMPTON                                 1     4     0   103   162   93.344
+ 309 PRINCE EDWARD COUNTY                        3     3     0   194   204   93.312
+ 310 KECOUGHTAN                                  4     2     0    88   108   93.211
+ 311 PRINCETON, WV                               0     1     0    10    49   93.177
+ 312 GAR-FIELD                                   1     5     0    72   118   93.127
+ 313 MONTICELLO                                  1     5     0    93   179   92.912
+ 314 WAKEFIELD                                   2     4     0    97   210   92.872
+ 315 HERITAGE(NN)                                3     3     0   126   123   92.751
+ 316 BLUESTONE                                   2     4     0    98   151   92.692
+ 317 HOLSTON                                     4     3     0   176   121   92.422
+ 318 CENTRAL WISE                                1     5     0    99   236   92.323
+ 319 GATE CITY                                   0     7     0   105   275   92.318
+ 320 NOTTOWAY                                    3     3     0   113   131   92.105
+ 321 NORFOLK CHRISTIAN                           2     3     0   106   194   91.897
+ 322 JAMESTOWN                                   1     3     0    57   142   91.883
+ 323 HANOVER                                     0     5     0    40   197   91.870
+ 324 ALTAVISTA                                   2     5     0   120   273   91.835
+ 325 GEORGE WYTHE(R)                             0     6     0    92   266   91.822
+ 326 BATH COUNTY                                 4     2     0   151   158   91.713
+ 327 GRASSFIELD                                  2     4     0    81   146   91.659
+ 328 GREEN RUN                                   0     6     0    49   167   91.620
+ 329 PATRICK HENRY(A)                            1     5     0    94   196   91.475
+ 330 GREENBRIER WEST, WV                         0     1     0    20    27   91.426
+ 331 CENTRAL VIRGINIA DISCIPLES                  0     1     0     6    52   91.416
+ 332 NORTHAMPTON                                 5     1     0   177    97   91.414
+ 333 MCLEAN                                      0     5     0    56   170   91.331
+ 334 WASHINGTON-LEE                              0     6     0   117   216   91.225
+ 335 HAMPTON ROADS ACADEMY                       0     5     0    36   184   91.164
+ 336 CHRISTCHURCH                                1     2     0    27    94   90.853
+ 337 LOUDOUN VALLEY                              0     5     0    38   223   90.841
+ 338 NANDUA                                      3     4     0   199   285   90.449
+ 339 GEORGE MASON                                2     3     0   115    89   90.382
+ 340 ST. ALBANS, DC                              0     3     0    30   133   90.199
+ 341 WEST GREENE, TN                             1     0     0    28    26   90.127
+ 342 HONAKER                                     3     3     0   153   140   89.951
+ 343 EASTSIDE                                    2     4     0   216   196   89.823
+ 344 LAKELAND                                    1     5     0    82   192   89.576
+ 345 KENSTON FOREST                              1     3     0    86   165   89.237
+ 346 HERMITAGE                                   1     6     0    49   298   88.993
+ 347 BRUNSWICK ACADEMY                           1     5     0   109   293   88.988
+ 348 HAMPTON                                     4     3     0   107    46   88.872
+ 349 CHATHAM                                     0     6     0    80   301   88.534
+ 350 MADISON COUNTY                              2     4     0   178   182   88.515
+ 351 WILLIAM MONROE                              1     5     0    55   170   88.374
+ 352 RURAL RETREAT                               1     4     0    63   144   88.269
+ 353 WAYNESBORO                                  0     7     0    82   315   87.853
+ 354 GLOUCESTER                                  1     4     0   126   189   87.720
+ 355 PATRICK COUNTY                              1     5     0    69   187   87.037
+ 356 HICKORY                                     1     5     0    37   196   86.920
+ 357 ALLEGHANY                                   0     7     0    59   274   86.801
+ 358 NATIONAL COLLEGIATE, DC                     0     1     0    28    34   86.594
+ 359 MANASSAS PARK                               1     0     0    27    12   86.556
+ 360 CAROLINE                                    1     5     0    70   202   86.532
+ 361 BLUESTON                                    0     1     0    20    21   86.528
+ 362 CARY CHRISTIAN, NC                          0     1     0    12    35   86.496
+ 363 KEMPSVILLE                                  0     7     0    39   259   86.321
+ 364 STAUNTON RIVER                              0     6     0    85   316   86.189
+ 365 SUSSEX CENTRAL                              1     4     0    56   150   85.910
+ 366 GREAT BRIDGE                                0     6     0    43   228   85.797
+ 367 POCAHONTAS COUNTY, WV                       0     1     0    21    24   85.762
+ 368 GREENSVILLE                                 2     2     0   104    96   85.540
+ 369 BETHEL                                      1     5     0    63   151   85.438
+ 370 NORTHERN VIRGINIA HOMESCHOOL                4     0     0   166    39   85.370
+ 371 LANCASTER                                   2     2     0   126   123   85.292
+ 372 FREEDOM(LC)                                 0     6     0    38   251   84.844
+ 373 EASTERN MONTGOMERY                          2     4     0    52   148   84.780
+ 374 J.R. TUCKER                                 0     6     0    86   163   84.475
+ 375 THOMAS WALKER                               4     2     0   168   106   84.418
+ 376 GRANBY                                      0     6     0    28   218   84.405
+ 377 STONEWALL JACKSON(Q)                        0     7     0    34   353   84.239
+ 378 BLESSED SACRAMENT-HUGUENOT                  4     1     0   169   107   84.195
+ 379 ATLANTIC SHORES CHRISTIAN                   2     5     0   124   170   84.126
+ 380 GRAFTON                                     0     5     0    15   144   83.869
+ 381 RANDOLPH-HENRY                              0     5     0    59   226   83.801
+ 382 MARET, DC                                   0     1     0     0    40   83.668
+ 383 LEBANON                                     0     6     0    82   254   83.311
+ 384 NELSON COUNTY                               1     6     0   105   256   82.884
+ 385 HURLEY                                      3     4     0    84   144   82.755
+ 386 PORTSMOUTH CHRISTIAN                        1     3     0    62   151   81.775
+ 387 BLAND COUNTY                                2     3     0   107   110   81.369
+ 388 OSBOURN                                     0     6     0    26   298   81.127
+ 389 WINDSOR                                     2     4     0   108   174   81.016
+ 390 CUMBERLAND                                  0     6     0    58   307   81.001
+ 391 WASHINGTON, WV                              0     3     0    14   144   80.909
+ 392 MENCHVILLE                                  0     5     0    50   135   80.801
+ 393 WESTERN BRANCH                              0     6     0    41   200   79.033
+ 394 DENBIGH                                     0     7     0    52   302   78.784
+ 395 RIVER VIEW, WV                              0     3     0    56   117   78.455
+ 396 HARGRAVE MILITARY                           1     4     0   113   208   78.251
+ 397 HARLAN, KY                                  0     1     0    24    29   78.197
+ 398 SIDWELL FRIENDS, DC                         0     1     0     0    42   78.023
+ 399 SNOW HILL, MD                               0     2     0    14    90   77.858
+ 400 CASTLEWOOD                                  3     4     0    86   141   77.843
+ 401 SURRY COUNTY                                0     6     0    99   250   77.835
+ 402 CRAIG COUNTY                                2     4     0   136   194   77.574
+ 403 GRACE CHRISTIAN                             2     2     0   104   134   77.501
+ 404 MIDDLESEX                                   0     6     0    52   292   77.325
+ 405 THOMAS JEFFERSON(A)                         0     5     0    43   180   77.163
+ 406 BROADWATER ACADEMY                          2     3     0   105   180   76.226
+ 407 WELDON, NC                                  0     1     0    12    28   75.943
+ 408 RYE COVE                                    1     5     0    80   151   74.556
+ 409 TWIN VALLEY                                 4     3     0   216   223   73.488
+ 410 FUQUA SCHOOL                                1     4     0    89   178   73.441
+ 411 RAPPAHANNOCK COUNTY                         1     5     0    33   278   73.396
+ 412 MATHEWS                                     1     4     0    45   194   71.766
+ 413 CHINCOTEAGUE                                1     3     0    91   107   71.487
+ 414 NORTH STOKES, NC                            0     1     0     0    23   71.031
+ 415 ROANOKE HOMESCHOOL                          0     1     0    22    29   70.866
+ 416 ST. MICHAEL                                 4     1     0   160    54   70.838
+ 417 HAMPTON ROADS GENERALS                      1     2     0    60    90   70.163
+ 418 NORTHWOOD                                   1     5     0    98   269   68.358
+ 419 FISHBURNE MILITARY                          2     3     0    80   148   67.437
+ 420 MONTCALM, WV                                0     4     0    41   139   67.088
+ 421 BRUTON                                      0     2     0     6   118   66.442
+ 422 OAKTON                                      0     6     0     7   304   66.374
+ 423 TWIN SPRINGS                                0     6     0    62   252   65.610
+ 424 EAST RIDGE, KY                              0     1     0    28    48   65.430
+ 425 FCA BUCKS, DE                               0     1     0    14    20   63.924
+ 426 KING & QUEEN                                0     4     0    62   195   63.474
+ 427 HANCOCK COUNTY, TN                          0     2     0    14    75   63.183
+ 428 JENKINS, KY                                 0     1     0    18    54   61.912
+ 429 RANDOLPH-MACON                              1     2     0    51    92   60.194
+ 430 SHELBY VALLEY, KY                           0     1     0     0    49   58.707
+ 431 QUANTICO                                    0     3     0    14    96   55.970
+ 432 MASSANUTTEN MILITARY                        1     2     0    20    79   49.764
+ 433 PHELPS SCHOOL, DC                           0     1     0     0    51   47.107
+ 434 RICHMOND CHRISTIAN                          0     3     0    20   119   42.720
+ 435 VIRGINIA SPARTANS                           0     2     0     2    94   38.064
